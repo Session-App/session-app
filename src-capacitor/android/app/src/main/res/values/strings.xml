@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Session</string>
+    <string name="title_activity_main">Session</string>
+    <string name="package_name">app.sports.session</string>
+    <string name="custom_url_scheme">app.sports.session</string>
+		<string name="admob_app_id">ca-app-pub-9751935953292683~6804783513</string>
+</resources>

@@ -1,0 +1,6 @@
+@import './quasar.variables.scss';
+
+@mixin elevated-box {
+   background-color: $light-white;
+  box-shadow: 0 0px 3px #080808;
+}

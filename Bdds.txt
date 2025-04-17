@@ -1,0 +1,842 @@
+
+comptes partenaires :
+osmContributors:password
+
+emojis : 
+
+✅ : Tout est good on peut prendre la BDD
+⏳ : En attente d'une réponse
+❌ : Refus
+❓ : On ne sait pas si on peut les utiliser 
+🚀 : utilisé dans notre bdd
+✅🚀 : prêt en local
+
+1) non fait :
+ 
+#apps
+⏳ - (16/05/2022) https://play.google.com/store/apps/details?id=com.courtsoftheworld.android
+
+# éventuels partenaires :
+
+NON(https://www.winds-up.com/ (pour avoir une API d'une carte avec vent)/Windguru (pour avoir une API d'une carte avec vent) : Václav Horník/windyapp : business@windyapp.co)NON
+---> Utiliser l'API de l'IFREMER
+
+
+- my-sessions.com
+- ripitup
+- ridingzone
+- kiteandgo
+- mapbox.com
+
+
+
+Communiquer auprès d'eux :
+ - akifkite
+
+
+ # kitesurf
+ 
+ ❌ - https://www.wannakitesurf.com/
+ - (s'en inspirer pour l'API de vent via IFREMER) https://kitistan.land/myspots#!/
+
+
+        Une aide pour des descriptions mais a ne pas contacter :
+
+        - https://communaute.ucpa.com/t5/Blog/Les-10-spots-de-kitesurf-incontournables-en-France/ba-p/193561
+        - https://www.surfshop.fr/blog/meilleurs-spots-de-kitesurf-mediterranee/
+        - https://www.jetcamp.com/en/blog/top-25-best-kitesurfing-destinations-in-europe/
+        - https://www.tourismebretagne.com/selon-mes-envies/topitos/5-spots-ou-kiter-en-bretagne/
+        - whenwherekite.com
+
+# windsurfing 
+
+    Une aide pour des descriptions mais a ne pas contacter :
+
+        - https://www.sportsite.fr/top-5-meilleurs-destinations-pour-windsurf/
+        ❌- https://surfermap.com/cat/windsurf/
+
+
+
+# golfing 
+pour compléter les descriptions https://www.clublender.com/golf-course-maps/
+idées partner : https://www.golfgpsapp.com/
+
+# paddling
+        
+# fishing
+- https://www.anglersatlas.com/search/waterbodies
+
+# kayaking
+- https://kayakyourlife.com/carte-topos-circuits-randonnees-canoe-kayak-france/
+- https://aventureskayak.fr/
+
+
+            idée : https://www.randokayak.com/itineraires-guides-de-kayak-de-mer-en-bretagne/
+
+
+
+#swimming_snorkeling
+- https://www.snorkeling-report.com/fr/destination/snorkeling-guadeloupe/
+
+
+# boating / sailing
+- worldportsource.com/ports/region.php (liste de tous les ports)
+
+
+# wakeboarding_water_skiing
+⏳(16/05/2022) - https://www.cablewakeboard.net/cable-map/
+
+
+
+# diving_freediving
+- https://www.wannadive.net/
+
+secondaire :
+- http://www.plongee-var.fr/spot_plongee_toulon.htm
+- https://www.aqualonde-plongee.com/carte-de-nos-spots-de-plongee/
+- http://agachonclubsigeanais.chez-alice.fr/pointgps.htm (épaves)
+    Une aide pour des descriptions mais a ne pas contacter :
+        - https://www.plongeur.com/sites-de-plongee-par-pays/
+
+
+
+# surfing
+- (très grosse bdd, voir si on le contacte) https://fr.wannasurf.com/index.html
+⏳(16/05/2022) - https://surfing-waves.com/atlas.html
+⏳(16/05/2022) - https://www.mondo.surf/map : g.andreini@gmail.com
+
+
+# Surf/kite/wind/paddle/wakeboarding_water_skiing
+ne pas demander - https://spotyride.com/recherche/all
+- https://www.surf-report.com/webcams/ (webcams)
+- https://www.webcam-hd.fr/ (webcams)
+ne pas demander - https://thespot2be.com/Carteallspots (bon site surtout la page avec les spots à proximité)
+
+# base_jumping
+    Une aide pour des descriptions mais a ne pas contacter :
+    
+        - https://www.koifaire.com/articles/2016/04/04/ou-faire-du-base-jump-en-france/
+
+# speedflying
+
+# parapente
+⏳(16/05/2022) https://paraglidingearth.com/
+https://thermal.kk7.ch/ (carte avec toutes les zones aériennes)
+
+# skiing_snowboarding
+https://www.sports-hiver.com/stations/plans-des-pistes/ (pour le plan des pistes)
+https://www.sports-hiver.com/enneigement/webcams/  (pour les webcams d'enneigement)/
+https://www.skaping.com/about/ : info@skaping.com / +33 (0)4 76 21 79 37
+https://donneespubliques.meteofrance.fr/?fond=produit&id_produit=265&id_rubrique=50 (avalanche recherche spot)
+https://donneespubliques.meteofrance.fr/donnees_libres/Pdf/BRA/BRA.CHABLAIS.20220120150409.pdf (avalanches pdf)
+
+#volley
+❌⏳ (16/05/2022) - https://www.beachup.app/en/
+
+# rafting
+⏳ (16/05/2022) https://www.france-rivieres.fr/
+
+# skateboarding 
+ne pas contacter - https://www.smap-skateparks.com/ c'est une application)
+
+
+
+
+
+2) fait :
+
+⏳ Mail envoyé à dvu6gpfx8n4t@contactprivacy.email pour session.com
+
+
+1. Water : 
+
+# cliff_jumping (Rivières/Lac/Mer/cascade)
+🚀 jumpcliff.com
+🚀 explore-outdoors.org
+🚀 (Mineapolis) https://www.google.com/maps/d/u/0/viewer?mid=1IqO177hgpXSo64OJgg1bSNDSa-I&ll=45.524167144365535%2C-93.597813421875&z=5
+🚀 (USA) https://www.google.com/maps/d/u/0/viewer?mid=1ys9hjIVaBQtiBHF-nBfKQACxtaI&ll=-3.81666561775622e-14%2C17.22068017330912&z=1
+🚀 (Hawai) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1Io6bALBXx64KR0K1xwsIumZENeQ&ll=21.225124015499844%2C-157.31238503125002&z=9
+🚀 (Los Angeles) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&om=1&msa=0&t=m&z=7&vpsrc=0&mid=1wlk_pljBP5AyOsspLve6krRroH8&ll=34.96962648202778%2C-115.79699987627703
+🚀 (France) https://www.google.com/maps/d/u/0/edit?mid=194Hm3wZn202PPf7CoNmElPQa6NL4gyWl&ll=43.847151809233%2C3.0221792916198424&z=5&fbclid=IwAR06P1sFbcPbJuqZUW3oQKp5S4txt45uDt8EEPM4WbJyrQS9Em8jzwIXaic
+🚀 (Australie) https://www.google.com/maps/d/edit?mid=1Y_Q3S-gs_CLQuWH4wAIaYRtopGRxA-rB&ll=-25.048524738890823%2C134.63057470000004&z=5
+🚀 (Californie) https://www.google.com/maps/d/viewer?fbclid=IwAR3idS9P7hHje8Rxd1eJka4LWrAe8m1wZPa-Ffwm5L-PyEUlWaqK2NcrmSo&mid=1dqCWUF8IRuBhg-NP-gz_SYh2lNQ&ll=39.12748893994469%2C-121.06037600000002&z=7
+🚀 (USA NW) https://www.google.com/maps/d/viewer?mid=1KPtqR8wxMPkz2oO8OtwSZumpDyo&hl=en&ll=43.842412777429104%2C-123.96205972021383&z=6&fbclid=IwAR0Grin7OjC3Fz0rdB-WhHF6APk_AI_CNdDSUBqtvI8ZYiSg6O07ldw47Kk
+🚀 (Nouvelle Ecosse) https://www.google.com/maps/d/u/0/viewer?mid=1cUwdanIeBg55OflzuoySoznLFKI&ll=45.62873744635022%2C-63.004631500000016&z=7
+🚀 (new zealand) https://www.google.com/maps/d/viewer?mid=18-HxRIwnw6lQREButGDlLEXQVlQ&hl=en&ll=37.5063612542301%2C8.646021334956409&z=7
+
+
+# surfing  (Mer/Rivière/Wavepool) ✅
+🚀 COPYRIGHT (Mer - Mondial - il n'ya que les coordonnées ✅ ) - https://www.google.com/maps/d/u/0/viewer?mid=1mKpo8SjvVHReMIvRIEqh__jS8fxyr2u3&hl=en&ll=43.4333711862558%2C-2.3917617968750173&z=6
+❌❌❌❌❌ A enlever : 🚀 (France) - https://www.google.com/maps/d/u/0/viewer?client=firefox-a&hl=fr&ie=UTF8&t=h&msa=0&ll=50.5623042458335%2C5.059203695312497&spn=3.431236%2C7.03125&z=5&source=embed&mid=19GHRNiuVViHtX3x4VnvwCOWU65Q
+❌ (Mondial) - https://www.wannasurf.com/spot/
+🚀 (Nantes) - https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1FhQzwoQab5s2P_uLMxQrTmYDtyM&ll=47.45851933046927%2C-2.9904267827148523&z=8
+🚀 (Pays Basque) - https://www.google.com/maps/d/u/0/viewer?mid=1AUFG7UMMQW_bJ130FZIX1DkWPEE&ll=43.93903011012755%2C-2.488190123730471&z=6
+🚀 (Landes) - https://www.google.com/maps/d/u/0/viewer?mid=1AS6ToGQp0ll4lz_pgpmPpu7KUpnzdYmZ&ll=44.04543582498914%2C-1.352097849999947&z=9
+✅ (Lacanau) - https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=m&ll=44.942254157844935%2C-1.1664630952105237&spn=0.041603%2C0.005391&source=embed&mid=19iLR3gOV3mpdpm9U3mJX0AVW6kk&z=11
+✅ (Guadeloupe) - https://www.google.com/maps/d/u/0/viewer?mid=1uGOSeX6qrVHpAbZTTEi795qVmDHJl-go&ll=16.23596645048304%2C-61.40816290000002&z=10
+✅ (Madagascar) - https://www.google.com/maps/d/u/0/viewer?mid=1z376kXsN4nT_dIuIB4i02MStQVfM7boo&ll=-25.021230749896272%2C46.99607292793486&z=14
+✅ (Amérique du Nord) ❌❌ ATTENTION : supprimer les descriptions - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1Abgayw2Vc0SXkdwnuWi4omFCPi4&ll=39.16987551890515%2C-106.43118474863469&z=3
+✅ (Bilbao) - https://www.google.com/maps/d/u/0/embed?mid=15lMLSP7WmBJe0i_e--R8j3F5PW8&msa=0&ll=43.13251717226056%2C-5.883496007772625&spn=0.000769%2C0.001206&output=embed&z=6
+✅ (Malaisie) - https://www.google.com/maps/d/u/0/embed?mid=1_bwANAvhL_-dUopIYzygD2ny3sg&ll=1.2376390170688558%2C97.2655267303783&z=12
+✅ (Australie) - https://www.google.com/maps/d/u/0/viewer?mid=1mCl9PDa-Nnft-tTJQJ5ZHUnEYGA&ll=-31.555865208136716%2C132.1811233878915&z=5
+✅ (Costa Rica) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&t=h&msa=0&dg=feature&mid=1OlfBysBvw_2gzIcFAZDa48chPoQ&ll=10.460423946787431%2C-79.45046453515624&z=5
+✅ (Maroc) - https://www.google.com/maps/d/u/0/viewer?mid=1Iq-noxc71INIWJbZRwiO_guvEEs&ll=31.087854510086434%2C-9.602887634374996&z=8
+✅ (Maroc) - https://www.google.com/maps/d/u/0/viewer?mid=1DLlLbNZNivcowwigUC8xkaoGyLQ&ll=30.99048268435077%2C-9.762516024594499&z=7
+✅ (République Dominicaine) - https://www.google.com/maps/d/u/0/viewer?mid=1qEWO8OjXhIaKRixAHq2VBBS2P7o&ll=18.585474375158668%2C-70.42339903906252&z=8
+✅ (New Castle) - https://www.google.com/maps/d/u/0/viewer?mid=1D9bj64CZGUH07O7PVOxyltSzVoo&ll=-32.94293299999996%2C151.76886999999996&z=8
+✅ (Pérou) - https://www.google.com/maps/d/u/0/viewer?client=gmail&ie=UTF8&t=h&oe=UTF8&msa=0&mid=1kxH0JhU3uNtt7byFcqYrAjY6fTk&ll=-5.035312845065776%2C-79.97986913844295&z=5
+✅ (Chile) - https://www.google.com/maps/d/u/0/viewer?mid=1NTkwENM871z3cDthUWCDUyR8-xs&hl=en_US&ll=-34.383006000000016%2C-72.01375000000002&z=10
+✅ (Chile) - https://www.google.com/maps/d/u/0/viewer?mid=1fOQGE_gVNlK0MMY0h5Qmf_3YhH4&hl=en_US&ll=-39.652755535537935%2C-65.7808188436357&z=4
+
+❓ (Grece) - https://www.greeksurf.com/spots-map
+⏳⏳(17/05/2022) - (Barbados) https://barbados.org/mapsrf.htm#.YhZW9ujMLb0
+⏳⏳(17/05/2022) - https://surfspot.de/
+❌✅ (Wavepool) - https://wavegarden.com/fr/emplacements/
+❌✅ (Ecole de surf/France) - https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1699sT7lQi5PKLKSdggWqA_0-sXQ&ll=46.16346983181902%2C2.245221727997002&z=5
+❌(17/05/2022) - https://surfermap.com/cat/surf-guide-france-portugal-canarias-holland/
+❌✅ (Wavepool - Mondial) - https://www.google.com/maps/d/u/0/viewer?mid=1WjjP8JresO3oHe0KaQIgsZT46VciXguE&ll=-3.81666561775622e-14%2C122.72653970109117&z=1
+
+- https://www.google.com/maps/d/u/0/viewer?msa=0&utm_source=seabreeze.com.au&mid=1TAirzud8RXT-EpLY_i6DZx9yuVQ&ll=-26.45495500618199%2C153.30175079019165&z=10
+
+# windsurfing (Slalom/freeride/Vague) ✅
+
+🚀 (Europe) - https://www.google.com/maps/d/u/0/viewer?mid=1wUBA1hAM-h3tSE3m8gmSypIjRfY&ll=43.38898743677524%2C3.4170363263426573&z=8
+🚀 (Normandie) - https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1nLJ3eGCM6P35b3doNbw8QTr5ULI&ll=49.452559539397136%2C-0.7832906738281409&z=7
+🚀 (Bretagne) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1d93QP9ZefoLr9EJcEXgzosZG4SQ&ll=48.217782049070834%2C-4.270889500000012&z=8
+🚀 (Australie) - https://www.google.com/maps/d/u/0/embed?mid=1qlioVimVtFQAUZFYPj_TAsqiqzQ&msa=0&ie=UTF8&t=m&vpsrc=6&ll=30.30264044674461%2C172.94254956053803&spn=10.005736%2C12.062988&z=2&output=embed
+🚀 (Spain) - https://www.google.com/maps/d/u/0/viewer?msa=0&ll=38.5296832805241%2C-4.504394906249992&spn=55.442088%2C79.013672&mid=1fu_wkPCqTDjFdqnfXx3Z9UzV7IE&z=5
+🚀 (Sardaigne) - https://www.google.com/maps/d/u/0/edit?mid=1jr-vsuHv91Ayciv1nh8qTdG47WM&ie=UTF&msa=0&ll=13.34626390215487%2C0&z=2
+🚀(Pays Bas) - https://www.google.com/maps/d/u/0/edit?mid=1ASNha2A8Dy2uWgtRQ1UdqMnCnujMcuth&ll=51.03055051077561%2C6.434536318861225&z=7
+🚀 (Victoria) - https://www.google.com/maps/d/u/0/viewer?mid=1xhWZCyJ-pKax3kXdeVfajWH8lgSGEUML&ll=-33.46869908033498%2C155.70619265976853&z=4
+🚀 (Danemark) - https://www.google.com/maps/d/u/0/viewer?mid=1oFNE_GJ-3ONgA9cZ5z7s8BMfG8M&ll=53.95270139598722%2C17.613981074218742&z=6
+🚀 (Sardegna) - https://www.google.com/maps/d/u/0/viewer?mid=1yWOLC7xsM76RKrvfe9gc3U0xBZg&ll=39.74774618894899%2C8.819878465488053&z=6
+✅ - Ecole, shop aussi (Perpignan) - https://www.google.com/maps/d/u/0/viewer?mid=1uPOoMkmQSKMnWi147jmclThfmtE&ll=42.82425133348731%2C3.1819454025316762&z=10
+🚀 (World) - https://www.google.com/maps/d/u/0/edit?mid=18rSZ1olOUnNm-HzyKvEtTGBecpY&hl=it&ie=UTF8&t=h&msa=0&ll=40.18260079135139%2C3.289549747268831&spn=0.003601%2C0.00456&z=5&source=embed
+----
+⏳⏳(17/05/2022) (Ireland) https://www.maps.ie/windsurfing-map-ireland.htm
+⏳⏳(17/05/2022) (Grece) - https://www.greeksurf.com/spots-map
+⏳⏳(17/05/2022) (Worldwide) - https://wisuki.com/country/es/spain
+❌ (vue mais pas de réponse) - http://www.spotdumonde.com/ (contacté par instagram)
+(UK kitesurfing school) https://www.google.com/maps/d/u/0/viewer?mid=16mzCxeHB5ebU-1ZS76U-zLRouSs&hl=en&ll=52.71049748059793%2C-1.9987075000000054&z=6
+-----
+
+
+# kitesurfing (Flat/Vague) ✅
+
+✅ (Portugal) https://www.google.com/maps/d/u/0/viewer?mid=1e9jVzsdW76vY5WCLN8miiK7edOc&hl=en_US&ll=39.276165038460285%2C-10.904649052987976&z=6
+🚀 (Afrique du sud) https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=h&vpsrc=6&ll=-4.407668876486797%2C51.70434483856457&spn=0.401348%2C0.410614&z=3&source=embed&mid=1kcVXQ76cW8pbIMkiMWkdlKO4BAI
+🚀 (Grece) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&msa=0&ll=37.335025051841484%2C34.769558637955335&spn=0.421254%2C0.409069&source=embed&mid=1x8YEBHYS6Iq0FD12rna5OtbJ6gU&z=4
+🚀 (Normandie) - https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1nLJ3eGCM6P35b3doNbw8QTr5ULI&ll=49.452559539397136%2C-0.7832906738281409&z=7
+🚀 (Nouvelle Zélande) - https://www.google.com/maps/d/u/0/viewer?mid=1keW0B-41o86xIzvleMNpRFlTFNU&ll=-18.4365718811211%2C163.62265751779537&z=2
+🚀 (South Padre Island) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1FcjJrEUPUbwwcay9N1o8wt3pJOk&ll=26.070499292933103%2C-96.96141625133767&z=10
+🚀 COPYRIGHT (Australie est - ✅ c'est un site "org") - https://www.google.com/maps/d/u/0/viewer?mid=1Uguu9q4Xb02RrtPyAR02a0THnLRqXWHC&ll=-33.88058084715646%2C152.28388390288208&z=7
+🚀 COPYRIGHT (Australie Sud ⏳ (03/06/2022)) - https://www.google.com/maps/d/u/0/viewer?mid=11zx43VvpqEQV9r2V9NKsnYkuMuucqynp&ll=-47.10930891627048%2C-179.08237869285523&z=2
+🚀 (Pays Bas) - https://www.google.com/maps/d/u/0/viewer?mid=1MgASjLRrGWxZqpLSEqzvTd0tH3Q&ll=51.2550245145001%2C5.777675349999999&z=
+🚀 (Vancouver) - https://www.google.com/maps/d/u/0/edit?mid=1BkvHNAEuvYgVh8h8w9T8n3Gijq4&msa=0&ll=40.3459124182215%2C-114.0082633178996&spn=0.032804%2C0.077162&z=4
+🚀 (Tunisia) - https://www.google.com/maps/d/u/0/edit?mid=1nyChaWdDx6K4janWGFlrJwAZXAE&ie=UTF8&oe=UTF8&msa=0&ll=35.76267224239416%2C11.33556100000001&z=6
+🚀 (Montréal) https://www.google.com/maps/d/u/0/viewer?mid=15ZuAgdVuT1wgPncWwf_A3LeA3Mc&hl=en_US&ll=45.7250259933546%2C-74.15130057931164&z=8
+✅ (Montreal 2) https://www.google.com/maps/d/u/0/viewer?mid=1HD5vry94OGTemSuw-fTIsOjzO-c&hl=fr&ll=48.60264823278099%2C-61.4449461646253&z=3
+✅🚀 - (USA_NE) - https://www.google.com/maps/d/u/0/viewer?mid=1CRxBEtugob0O9fFYMMHfL784s2o&ll=42.77888249034847%2C-87.85463651143205&z=5
+🚀 - (San Francisco) - https://www.google.com/maps/d/u/0/viewer?ll=47.48853333951912%2C-107.6110646558958&t=h&source=embed&ie=UTF8&msa=0&spn=5.144546%2C4.069748&hl=en&mid=1PhCFQ4t7LR8YLT6Sl_C2O4W8sFM&z=2
+🚀 - (Floride) - https://www.google.com/maps/d/u/0/viewer?mid=17c2a9kLvccwH_uPe0uIKOPf8SM4&ll=27.73463199443009%2C-82.89261713103147&z=6
+🚀 - (South_Ontario/Toronto) - https://www.google.com/maps/d/u/0/viewer?mid=1Tgc5BTun4zuN8FU_-z7oOISncfE&ll=43.82168496548891%2C-79.50464148327632&z=7
+🚀 - (NW USA) - https://www.google.com/maps/d/u/0/edit?mid=1khDKSoOxKkahP6TJwRDAxDZG1cc&ie=UTF8&hl=en&msa=0&z=8&ll=47.135178209989405%2C-121.97544589863486
+✅❌ galere car il y a aussi des zones - (Montréal) - https://www.google.com/maps/d/u/0/viewer?mid=1HD5vry94OGTemSuw-fTIsOjzO-c&hl=fr&ll=46.632848094313566%2C-70.290028&z=6
+✅❌ - (France) Revendeur, écoles et ❌❌- https://www.google.com/maps/d/u/0/viewer?mid=1fiSEPd8uFD82awR9R6P6_wzK5vM&ll=46.140343863200975%2C5.185898645828946&z=6
+🚀 - (Sud de la France) - https://www.google.com/maps/d/u/0/viewer?mid=1WnP7KHz_ipwhHWIa11z-FZssTuc&ll=42.7872792328797%2C6.619063391276105&z=7
+🚀 - (Nord des Landes) - https://www.google.com/maps/d/u/0/viewer?mid=1WXLNammtbW5lp4-LeCdw1kMZes62DWSd&ll=44.29798172536437%2C-1.2083689500000117&z=10
+✅ - (France) https://carte.ffvl.fr/?mode=kite
+🚀 - (Nouvelle Ecosse) https://www.google.com/maps/d/u/0/viewer?mid=1MA6gXto_dBDkH0dY4jAQtH67EuU&ll=45.402777373936026%2C-60.71079330074971&z=5
+✅❌ - (République Tchèque) https://www.google.com/maps/d/u/0/viewer?mid=1IZg06D-nmmZaD0Ta3oNDbdo1pT2c3unC&ll=50.04332244498265%2C14.938890122645532&z=14
+✅ - (Allemagne :❌❌ prendre les pins bleus) https://www.google.com/maps/d/u/0/viewer?mid=1nzhXfrkN-kw7xG9ZkeUTA3B4uhQ&ll=51.31814782867499%2C11.435866500000003&z=6
+🚀 - (Nouvelle Calédonie) https://www.google.com/maps/d/u/0/viewer?mid=1Osi6i-H1A-TNknKSg2ICbyHbuU8&ll=-21.90963054878555%2C166.36610219444898&z=7
+🚀 - (Barcelone) https://www.google.com/maps/d/u/0/viewer?mid=16x9tWWhrdrlHTU9bY-eMy_8sld0&ll=41.30652057607459%2C6.553747657726694&z=6
+🚀 fait à la main- (Zanzibar) https://www.google.com/maps/d/u/0/viewer?mid=1fLaAJKEZGf_Rlyh6HqDqIacEdRE&ll=-5.582036780436919%2C41.641211199594466&z=7
+✅ peu - (Fuerteventura) https://www.google.com/maps/d/u/0/viewer?mid=1WNbhA577kp2cBCeUEt4Y-q93RD0&ll=28.048892172707507%2C-13.140307019873635&z=8
+✅ peu - (Saint Nazaire) https://www.google.com/maps/d/u/0/viewer?mid=1O8F8mE_mvojY37BvB1Rd_PkQ3VM&ll=47.27018124955979%2C-1.8744941919870892&z=8
+🚀 - (Australie) https://www.google.com/maps/d/u/0/viewer?mid=1d3KXVHE5GWYyiMMutfGpATuBkLQ&ll=-24.428298716703207%2C122.73646478125002&z=5
+🚀 - (Lannion) https://www.google.com/maps/d/u/0/viewer?mid=1WW4H61jfSJotMOcv027MqvyWrRB1UvW3&ll=48.620641827390685%2C-2.8086255752397804&z=15
+🚀 - (Crète) https://www.google.com/maps/d/u/0/viewer?mid=1p6NkxdTq8B5Y0s0q_gBL3AqtSG0&ll=35.01812512220538%2C28.545707873429265&z=6
+✅ - (Quiberon) https://www.google.fr/maps/d/u/0/viewer?mid=1Zw1ibuAHV2IXACdS98e0M9M_bT_2Q0az&ll=47.59782920000003%2C-3.154792899999996&z=9
+🚀 - (Monde) https://www.google.com/maps/d/u/0/viewer?mid=1-xSPt0dTRaTMtonsT84uvqZjoUg&ll=6.34836550785695%2C85.02605&z=2
+🚀 - (Danemark) https://www.google.com/maps/d/u/0/viewer?mid=1CXyoQKm4d2Kg-g6zF3phdSfcDF8&ll=55.615349247316935%2C12.756687266285955&z=9
+🚀 - (Espagne) https://www.google.com/maps/d/u/0/viewer?mid=16x9tWWhrdrlHTU9bY-eMy_8sld0&ll=41.389173132401254%2C1.9359972460937502&z=7
+✅pas bcp de spots et nom de spots - (India) https://www.google.com/maps/d/u/0/viewer?mid=1EGz8NRJidjISDF1GgKKLJq3X_ko&ll=9.161731043845156%2C79.05701581494145&z=10
+🚀 - (South Ontario) https://www.google.com/maps/d/u/0/viewer?mid=1Tgc5BTun4zuN8FU_-z7oOISncfE&ll=44.50439458871118%2C-78.08755826687256&z=7
+🚀 - (Melbourne) https://www.google.com/maps/d/u/0/viewer?mid=1rSxZkgssEvr-uxHkUadv-Gm-5QRUKb36&ll=-38.51613458982251%2C145.81813443194102&z=8
+✅pas bcp de spots - (Bretagne Nord) https://www.google.com/maps/d/u/0/viewer?mid=1_UX2GkvMONbIFlCPlay-VHrrgX0&ll=48.55795902412754%2C-2.4359183785702165&z=10
+✅pas bcp de spots - (World) https://www.google.com/maps/d/u/0/viewer?mid=1Nbz4-z6tmv5zTjlS3M0mkgFKJ-E&ll=0.7699498291775948%2C103.94061645559509&z=1
+✅pas bcp de spots - (Cabo verde) https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=h&ll=16.691606936929283%2C-22.805870651411787&spn=0.032901%2C0.051413&z=11&source=embed&mid=1wXNDqpJyRwdUp0WkIT6O4j549N8
+✅pas bcp de spots - (Baie de Morlaix) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=m&oe=UTF8&msa=0&mid=1-eaSgClhA6yjd9I9zndKyAeEzrY&ll=48.627397375390935%2C-3.6499041147024087&z=10
+
+------
+
+(Mondial/relou : c'est pleins de "petites map google") - https://globalkitespots.com/fr/
+(kitebuggy, world) - https://www.google.com/maps/d/u/0/viewer?msa=0&ll=47.8132379478539%2C-3.2390602136648505&spn=11.02451%2C19.753418&mid=1pz4LS3u8PI2hesoSNQ74ZAihGp4&z=9
+⏳ - https://spots.universkite.fr/ : s'inspirer de leur site pour développer une fonctionnalité
+❌ (même concept) - https://zoomkite.com/carte-interactive-spots-professionnel-kitesurf/
+⏳ - https://trouvetonspot.fr/SpotsNew/main.html#targetPage  (site de spot mais avec des fonctionnalités ! j'aime le concept mais pas le site : s'en inspirer)
+❌(17/05/2022) Veut plus de détails sur le projet (mail) - https://surfermap.com/cat/kite/
+⏳(17/05/2022) - https://letskite.ch/spots/
+⏳(17/05/2022) - https://kitetrip-planner.com/destinations-kite/
+⏳(17/05/2022) - whenwherekite.com
+⏳(17/05/2022) (Grece) - https://www.greeksurf.com/spots-map
+❌ - (Monde) https://www.wannakitesurf.com/spot/Europe/Spain/
+------
+
+
+
+# sailing
+
+# fishing
+
+
+# diving & snorkeling ✅
+
+🚀 COPYRIGHT (❌❌ bcp de liens vers un même blog, demander au mec du blog si il est ok ?) (Worldwide) - https://www.google.com/maps/d/u/0/viewer?mid=1Yi75Qlj7fH8eMKgq4iF0w6pHgrI&ll=34.808150829853524%2C-21.020883131250102&z=2
+✅ - (Brest) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1CWxnsA8Ai8N0PqolytcT_19BCoc&ll=48.31387303815228%2C-4.3715198665038235&z=10
+✅ - (freediving, mail - rdv) - https://www.freedivewire.com/map/
+✅ - (freediving) - https://www.google.com/maps/d/u/0/edit?mid=1-i8QciUx0ArhUxWLdJP2Ddxxg8Q&msa=0&ll=31.344109607634987%2C-10.8579678992919&z=3
+✅ - (Cotes d'Armor) - https://www.google.com/maps/d/u/0/viewer?mid=1wqGkl07pZkgHipgxPrugkO_tkjQ&hl=fr&ll=48.83465119064075%2C-3.2293045000000054&z=10
+✅ - (Morbihan) https://www.google.com/maps/d/u/0/viewer?mid=1Eu8cNihdkXdAVD_QmISuhlmBVDg&hl=fr&ll=47.52554751932697%2C-3.2239149999999994&z=10
+✅ - (Croatie) https://www.google.com/maps/d/u/0/viewer?mid=1RgT-PmwUQFTM08OaIlyatazs6e2XOmpa&ll=43.81655711247355%2C15.463486400000019&z=11
+✅ - (Grece) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=el&msa=0&t=h&om=0&ll=37.00364899999999%2C26.963882000000012&spn=0.164506%2C0.274658&z=6&source=embed&showlabs=1&mid=1WsyP4dzhR7-h1wDaOGbZ7EhhWYc
+🚀 - COPYRIGHT (Mexique - site plus actif et sans contact ✅) https://www.google.com/maps/d/u/0/viewer?mid=1vA-4Ke6Qh7gUV7RFyoSUp8_OGPw&hl=en&ll=18.15678866517642%2C-99.82760814064179&z=5
+✅ - (Okinawa) https://www.google.com/maps/d/u/0/viewer?fbclid=IwAR0et3MbEGwnzf4KipW_O0MWxaGUKtg8PpFEnimxdqmqu8bwc_zNHGzBI2s&mid=1lCfsCELBMF_YZJKAXr0fzSpwkhfNATKZ&ll=31.744983084999603%2C135.20531282650165&z=4
+✅ - (Los angeles) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&msa=0&ll=38.98172315255051%2C-111.02703624465917&spn=0.008584%2C0.014462&z=5&om=1&mid=1u_zIey60ekK7FmxgIngfYac4MYo
+✅ - (Hawai) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1gW9AiWxYbWkxrBQ0KtyuiO51EFk&ll=21.084013265815052%2C-153.24509191302715&z=4
+🚀 - (Seychelles) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1ahfDEitLG0cQlFJ4ZVRVxwbFNSA&ll=-4.689351236120924%2C54.67138849999998&z=8
+🚀 - (Maldives) https://www.google.com/maps/d/u/0/viewer?gl=us&ie=UTF8&oe=UTF8&msa=0&mid=1aK8JA9MgGVaXbx4EU5bLRpFHME8&ll=4.329016009924399%2C73.20435050000002&z=8
+✅ - (Italie) https://www.google.com/maps/d/u/0/viewer?mid=1xUa998zbPYlx0-eESaW-HuxXWIQ&ll=47.718575578980925%2C16.00119651977912&z=5
+✅ - (Floride) https://www.google.com/maps/d/u/0/viewer?mid=16EwsXEX4mhFF5vlfbwWuKhaMhSo&ll=26.431957091736525%2C-77.32268646617874&z=5
+🚀 - (Maui) https://www.google.com/maps/d/u/0/viewer?mid=1IBQ5Jant8E2KamM86XcirvAqoxEHVpXR&ll=20.80611238378798%2C-156.55819860000003&z=10
+✅ - (Hawai) https://www.google.com/maps/d/u/0/viewer?client=safari&oe=UTF8&ie=UTF8&msa=0&mid=1INl3cpOuoBiCIUo1pg6dMCmWf6Y&ll=19.57879505169115%2C-155.50478&z=2
+🚀 - (World) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&t=h&msa=0&ll=9.102096864043109%2C-124.27734375&spn=177.479706%2C360&z=2&source=embed&mid=1W9wBsj9-xABphvjmZRTkHsS-FeQ
+✅ - (Iles vierges britanniques) https://www.google.com/maps/d/u/0/embed?mid=1rs4bf4uEA9x_iTCW5PWYODgNJ-A&ll=18.43704090446445%2C-64.77005532800574&z=10
+✅ - (Sunshine coast) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1XUddgSXecQOfj2L1VRydPyQcUn8&ll=-14.398951914360753%2C-174.2961924764569&z=3
+✅ - (San Diego) https://www.google.com/maps/d/u/0/viewer?mid=1Qc19TU1M74K5mWrsP-1NPCAVYu07MuF2&hl=en&ll=32.85322838582908%2C-117.2657222&z=15
+✅ - (Bahamas) https://www.google.com/maps/d/u/0/viewer?mid=1C06ruqEYo2AlK-QJrIoD2myGJCw&ll=23.51325007047608%2C-75.75277090000002&z=13
+https://www.google.com/maps/d/viewer?ie=UTF8&om=1&t=h&oe=UTF8&msa=0&mid=1AKUQy0phR7xbQYJrRvm1ZesvPfc&ll=-38.394087539303506%2C141.85889785269583&z=12
+
+
+----
+⏳(17/05/2022) - https://www.snorkeling-report.com/
+⏳ - (insta) - https://dive.site/?utm_source=google&utm_medium=cpc&utm_campaign=search_non_us&gclid=CjwKCAiA_omPBhBBEiwAcg7sma08WEr1BVR7msf_hIDRX17fRehRUERs3ICw3hTya1rVHVB5Yw8EYBoCOM8QAvD_BwE
+⏳ - (mail : plongeur.com) - https://plongee-loisir.com/sites-de-plongee
+⏳ - https://www.mapalmes.com/
+❌❌ - (Worldwide/diving club & shop) https://www.google.com/maps/d/u/0/viewer?mid=1WLySIlMSbCBLJ0TtucPh43BOgcw&ll=41.151236425374314%2C16.029546874999976&z=6
+ - (Worldwide/diving club & shop) https://www.google.com/maps/d/u/0/viewer?mid=1WLySIlMSbCBLJ0TtucPh43BOgcw&ll=41.151236425374314%2C16.029546874999976&z=6
+----
+
+
+# wakeboarding_water_skiing ✅
+✅ - (Worlwide) https://www.google.com/maps/d/u/0/viewer?mid=1_2-3msEu83LIxfEm9TSn_V9c0zo&ll=39.29993378473638%2C-11.036465624999984&z=3
+✅ - (Worlwide) https://www.google.com/maps/d/viewer?mid=14PDwz4fqh2x48ETGY9TbeEkZB0I&ll=15.95644447485648%2C81.86436110826435&z=1
+✅ - (France) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1AbG0oER_i0VKBQcTULLZRRCvU1g&ll=46.18610914964341%2C2.321927999999982&z=5
+✅ - (Lyon) https://www.google.com/maps/d/u/0/viewer?vpsrc=0&ctz=-120&ie=UTF8&t=m&oe=UTF8&msa=0&mid=1FiN393ky7lU1SlQ5t00fuJr-u0U&ll=45.628410326259676%2C5.490277000000012&z=8
+
+
+
+
+
+
+# freediving & apnea
+✅ - (France) https://www.google.com/maps/d/u/0/viewer?mid=1-i8QciUx0ArhUxWLdJP2Ddxxg8Q&ll=40.97687712076613%2C20.42649809277095&z=4
+✅ - (Phillipines) https://www.google.com/maps/d/u/0/viewer?mid=1niG9kBWSY0p7HwvesVHvUt0fTq0&ll=10.378294875741814%2C123.18853850000002&z=6
+
+
+-----
+ne pas les contacter - https://unleashedwakemag.com/cable-wakepark-world-map/2017/07/13/
+-----
+
+# rafting
+✅ (Verdon, FR) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=p&source=embed&oe=UTF8&msa=0&mid=1HdG_Wvd2gGjwYES3yl3oFb3iw-E&ll=43.837684602066915%2C6.9115429999999956&z=10
+✅ (Croatie) - https://www.google.com/maps/d/u/0/viewer?mid=15w0NkXXwjFGqmV1Ge1TH4QFLHns&ll=43.85792375130083%2C20.529228094065072&z=6
+✅ (Oregon, USA) - https://www.google.com/maps/d/u/0/viewer?hl=en&ie=UTF8&msa=0&ll=44.74024839420528%2C-122.28588806240673&mid=1OqdGF-rShN1GpziC4V0XKeMZJIw&z=12
+
+✅ (Oregon, USA/Attention trier les choses intéressantes!) - https://www.google.com/maps/d/u/0/viewer?mid=1DFUkN9rUCjGfBo3NFknIe294dc4HsQbz&ll=46.23243385904525%2C-106.99778569369988&z=4
+- 
+
+
+# kayaking 16 ✅ (Pour la France)
+🚀 - (France) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1sTTKZosUhYB7sMQ7xE8PYXyCJxg&ll=45.808580005919225%2C-2.8095129502563667&z=5
+✅ - (France) https://www.google.com/maps/d/u/0/viewer?mid=1nWDZCYm8IUiIZ2K4oYVdkMF5QOiWugOW&ll=46.40826004341944%2C2.3807635000000262&z=5
+✅ - Pas précis (Monde) https://www.google.com/maps/d/u/0/viewer?mid=1qVdotzpybyF_1xTsRI-uyG49MZ4&ll=16.541554916808106%2C-8.505182950000005&z=1
+
+
+# skimboarding ✅
+✅ (France) - https://www.google.com/maps/d/u/0/viewer?hl=fr&ie=UTF8&msa=0&t=h&source=embed&ll=46.558860000000024%2C4.394531000000018&spn=21.768209%2C31.640625&z=3&mid=17KYvafEuIYv_0q52AXjyLvBKaoA
+✅ (Monde) - https://www.google.com/maps/d/u/0/viewer?mid=11kVPz80gd1-by_6jglN7ljhD9QM&ll=-3.81666561775622e-14%2C-100.95638399999996&z=1
+
+✅ (France) - https://www.google.com/maps/d/u/0/viewer?mid=1Lo-6WJ4PTdel36xu_ruBH3LKNRXnuSyV&ll=43.92151445056677%2C0.4175153802703546&z=5
+
+----
+✅ - http://www.skimboard.com/forumv2/viewtopic.php?f=7&t=3841
+
+------
+
+# jetskiing
+
+# flyboard
+
+# paddling
+❓ - https://paddling.com/paddle/locations?viewport=center%5B%5D%3D48.3578619%26center%5B%5D%3D-4.5778957%26zoom%3D7
+❌ - https://surfermap.com/cat/sup/
+⏳ - http://paddlespot.net/index.php
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1fFHT_pxq2StHmauOG5RUE1CExG5Kq1Z0&ll=48.784227756380446%2C2.36684974864648&z=9
+
+# waterpolo
+
+# rowing
+
+✅ - (Worldwide) https://www.google.com/maps/d/u/0/edit?mid=1m3sxO34rsftU3Ib2iEP4Gdn772c&msa=0&hl=en&ie=UTF8&t=h&ll=51.44214826537518%2C-10.27440616536866&spn=0.020617%2C0.054932&z=3&source=embed
+✅ - (portugal) https://www.google.com/maps/d/u/0/viewer?client=firefox-a&hl=en&ie=UTF8&msa=0&z=4&mid=1YQU6_aGbLMd9yNeUyvrSu6gaDc4&ll=36.988663577200235%2C2.5541563173369397
+✅ - (angleterre) https://www.britishrowing.org/rowing-activity-finder/
+✅ - (angleterre) https://www.google.com/maps/d/u/0/viewer?mid=1RBpUMDrWI84Kx1dJvChgUXAeerRwN4Yw&ll=51.46445295034317%2C-2.679865899999987&z=7
+✅ - (Ile de France/ club) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=49.02051102064883%2C2.4381162664785894&spn=0.00951%2C0.016479&mid=1tIL6W-Pm8g-sq6yosQciZp-e9Ok&z=9
+
+# aquabike ?????
+
+
+
+
+
+2. Air : 
+
+# base_jumping ✅(France)
+🚀 - (Europe) https://www.google.com/maps/d/u/0/viewer?mid=1JrArwZSwrM792_u0An-tho5kn2v6qpVY&ll=45.83409118321531%2C5.5662923324408276&z=8
+❓ - (Europe) https://www.base-jump.org/topo/index.php?title=Accueil
+
+# parapente 
+✅🚀 En local (World) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1odpRDshJ63bIg6zOtUkvkYe-_0E&ll=8.87052689605944%2C54.71899349999998&z=3
+⏳ - https://www.paraglidingmap.com/app/
+✅ (FFVL) - https://carte.ffvl.fr/?mode=parapente&lat=45.4081&lon=6.3164&zoom=16
+✅🚀 En local - (Europe) https://www.google.com/maps/d/u/0/viewer?mid=1GY0P7OxWm5h_0-9P7gcd299YRqHS4sqY&ll=39.576448984573226%2C23.90147768338803&z=4
+🚀 - (Suède) https://www.google.com/maps/d/u/0/viewer?mid=1HXUMLxUeFc4ioI8onVMNtgMCxq8&ll=63.307909292688564%2C23.676745635810285&z=5
+🚀 - (Bir) https://www.google.com/maps/d/u/0/viewer?mid=1uWikkaQpH34fTAmhc-Jta3tghovx3Qnh&ll=28.92867314196192%2C82.22493606152247&z=5
+🚀 - (République Tchèque) https://www.google.com/maps/d/u/0/viewer?mid=1vKOATI25AT1k8IPOo-WB5YwVMn8&ll=51.15931102317082%2C15.168748887966007&z=6
+✅ - (ES) https://www.google.com/maps/d/u/0/viewer?mid=1GVtN0LxlKSEnbzGJ0iRFGzL7l5w&ll=37.300662624310306%2C-4.353507348345156&z=7
+🚀 - (Fr) https://www.google.com/maps/d/u/0/viewer?mid=1EzeXlIFXDpKeLQtBVU5jMLw1bi8&ll=45.37247740000002%2C5.812490000000001&z=8
+🚀 - (Bretagne) https://www.google.com/maps/d/u/0/viewer?mid=1R-A7hZeQurw8msZmSOqPExq61wk&ll=48.18723554051073%2C-3.299017236718762&z=8
+🚀 - (Montpellier) https://www.google.com/maps/d/u/0/viewer?mid=1MmUzfeNlY1-7D6CMiW9hpypIAOk&ll=44.23444690226122%2C5.472047711155703&z=6
+✅ - (Madagascar) https://www.google.com/maps/d/u/0/viewer?mid=1HkalKDd3Ba04J0FUtlokOxoPFBE&ll=-20.08041412297058%2C45.80534291622757&z=5
+🚀 - (Andalousie) https://www.google.com/maps/d/u/0/viewer?mid=18OE0oIpKIsI-KB_UFdbbbdoDEog&ll=37.06298734255143%2C-3.8894470585937526&z=7
+🚀 - (Maroc) https://www.google.com/maps/d/u/0/viewer?mid=1Qr-wZiRS17EAG9VBDxh2vTNPyw0&ll=30.743807499145145%2C-7.972030351562571&z=7
+
+
+----
+🚀 (Alpes) - https://www.google.com/maps/d/u/0/viewer?mid=1tVWpgaZ3U5W2yNkU_XHhQLEx_6M&ll=45.92712473660836%2C6.404578751194796&z=9
+✅ (Alpes) - https://www.google.com/maps/d/u/0/viewer?mid=13mg6QKpOEyxULdPhmsp_InEkKH4&ll=46.32807054392884%2C7.518983261173902&z=5
+-------
+
+
+
+# saut en parachute ✅
+✅ - (France) https://www.google.com/maps/d/u/0/viewer?hl=fr&gl=fr&ie=UTF8&oe=UTF8&msa=0&mid=1k82MIoIdy9bH4wI6hhQKFseP5l0&ll=46.101360881130326%2C3.338946500000021&z=6
+✅ - (USA) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=m&oe=UTF8&msa=0&mid=1ItKSNh2yynMbiJIf-hp8tyIUEPo&ll=44.911080614651354%2C-113.43712099999999&z=4
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1ZjNRTLvFpRtFt6tXF3BKRP3C_8E&ll=-38.261166530084544%2C144.42875203581363&z=16
+⏳(17/05/2022) - https://www.dropzone.com/dropzones/
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1Jg6lrU9enPwaJEHwdB5UbUxPV6w&ll=37.547047838150924%2C-121.16038726529581&z=17
+
+Indoor/ outdoor
+
+Indoor :
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1PA7vpJOjcUgw9vXAeDaECHHXaUvr5NeH&ll=51.36455090783469%2C4.309466342878046&z=5
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1-k1adE32mrjYspQASrYkDWQRk-Q&ll=31.71248336888985%2C-10.230049500000014&z=2
+
+# delta ✅
+✅ (FFVL) - https://carte.ffvl.fr/?mode=sites
++ meme spot que parapente
+
+# parasailing
+
+# paramotor
+
+# aviation
+
+# hot air balloon
+
+
+3. Winter : 
+
+#skiing_snowboarding
+
+- (Jura) https://www.google.com/maps/d/u/0/viewer?mid=1gFkgrA-GZ9hD5mC47rb-RrcQO6rsuLhZ&ll=48.242165340551544%2C9.049709036746165&z=6
+- (Vosges) https://www.google.com/maps/d/u/0/viewer?mid=1Jq9tVkmCUVDAq26jtetALIMjTBY&ll=48.15667024305351%2C8.667951176757821&z=7
+- (Haute-Savoies) https://www.google.com/maps/d/u/0/viewer?mid=1UOvfHLdb38uih0EWGlc2F90SIMI&ll=46.11053709593982%2C6.971469035156259&z=9
+- (Vosges) https://www.google.com/maps/d/u/0/viewer?mid=1gLt2UNVb7wqY8rt9tvi9gE3BkD_EVtc3&ll=48.04849720180708%2C7.230618137500029&z=9
+- (Belgique)https://www.google.com/maps/d/u/0/viewer?mid=1DaGqwhrVjFppS0uoi9Y_5kqTgDI&ll=50.12822911985747%2C6.184023302640922&z=8
+- (Islande) https://www.google.fr/maps/d/u/0/viewer?mid=18UAFr7Aq04FJYwNSv1J6NluoBSxFvpNo&ll=61.58506794041902%2C-10.535709792081503&z=4
+- (Nouvelle-Zélande) https://www.google.com/maps/d/u/0/viewer?mid=1-U4ZkmqdhF1ad7eRHcddJgG7a8I&ll=-44.057721223621975%2C172.3560317512206&z=6
+- (World) https://skimap.org/
+- (Nevada) https://www.google.com/maps/d/u/0/viewer?mid=1fWt3pNln9NOFCr54WMmbUv6-B_A&ll=38.86400228646602%2C-112.16798253724127&z=5
+- (Europe) https://www.google.com/maps/d/u/0/viewer?mid=1hvltRbTg9THFfHJ0XdnKgRA6G7A&ll=46.355972176104835%2C10.222635771250026&z=6
+- (France) https://www.google.com/maps/d/u/0/viewer?mid=1Pe9YDTH-J4I0V8xhNt99SKkERX8&ll=45.65391807562774%2C6.361941999999988&z=8
+- (USA) https://www.google.com/maps/d/u/0/viewer?mid=1BZnNcpYv9HfIoyhqTnDuT-ZkM-0&ll=48.56752067292661%2C-109.7198155&z=3
+- (Colorado) https://www.google.com/maps/d/u/0/viewer?mid=1Y3nUnjCZW4LPCJizDwzzXD9O5d4&ll=38.90364075239055%2C-106.8346385&z=7
+- (Western USA) https://www.google.com/maps/d/u/0/viewer?mid=1gyHXbpNWbgSm-QvWHU-dVExQ6fU&ll=37.20187736592312%2C-98.92366074201763&z=4
+- (Fr) https://www.google.com.au/maps/d/viewer?mid=1fnkaPJL3onwyGbUn7cOmLNIF4ZQLl4wq&ll=46.63144364473167%2C10.877752434906334&z=5
+
+
+
+
+# snow-kite
+- https://www.manuel-snowkite.com/carte-des-spots/
+🚀 (Europe) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1SqYWixo1ZPEWpy5jRiXJPk_i_Vg&ll=45.964567260786744%2C3.852053000000005&z=5
+🚀 (Pyrénnées) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=p&source=embed&showlabs=1&oe=UTF8&msa=0&err=1&mid=1GP_Bir0Vq3zHE9sBEF1KHV_jFiY&ll=42.44957033225701%2C1.919625000000016&z=11
+🚀 (Plateau du vercors drôme et isere) - https://www.google.com/maps/d/u/0/viewer?mid=1Wq7ODqUhKbFhL-1-JGWzDDVZ0XQ&hl=en_US&ll=44.975530661477144%2C5.173144657226554&z=11
+✅ - (USA) https://www.google.com/maps/d/u/0/viewer?mid=1pjQlOLNr5vdkGjgqmY4RYr3cqFs&ll=45.663116482213226%2C-72.20902207110555&z=7
+
+
+
+# ice_skating 
+✅ - https://www.google.com/maps/@40.3149153,-75.8172351,7z/data=!4m3!11m2!2s1vZn5gF0XLYS0GED48KXlcEQ6ZK4-g!3e3
+✅ (Colorado) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&msa=0&z=7&mid=1fC4haFPOno4p0nbhYiYOqwDd8Cg&ll=38.941055850762694%2C-106.5988295
+⏳(17/05/2022) - https://www.hockeymap.com/
+✅ - https://www.google.com/maps/d/u/0/viewer?mid=1IBtUBIm5TGO1xL0U8mUPZmEGy_Q&ll=43.74722429094935%2C-70.18521714106217&z=10
+
+
+# sled
+
+# hockey
+
+# crosscountry_skiing
+- (Sancy) https://www.google.com/maps/d/u/0/viewer?mid=18Zb7PEdtgUccykgvoeBNpPUClMA&ll=45.46425307032206%2C3.0457204953569406&z=10
+
+
+# dogsled
+- https://www.google.com/maps/d/u/0/viewer?mid=1CcUUvv5qnBPePgje2_k-1ocmxvTxmcBi&ll=51.966310659066025%2C-100.04030730118171&z=3
+
+- Dogsled, bike trail : https://www.google.com/maps/d/u/0/viewer?mid=1DOaCD5P8u3JQRkPEjTKxXquVe-kgW6EF&ll=41.02342319275781%2C-88.06811852565006&z=4
+
+https://www.google.com/maps/d/u/0/viewer?mid=1fn4pDp_ME83YYXvflLwi8_Bm6HM&ll=42.91315934786803%2C1.0200661920279863&z=6
+
+
+# alpinism
+
+- https://www.google.com/maps/d/u/0/viewer?mid=1vLLOo22D8_ur2TpDuoRYOWqL6GI&ll=62.51060073997704%2C7.717549136917853&z=10
+
+4. Land : 
+
+# street_workout ✅
+✅ - https://calisthenics-parks.com/maps
+✅ - https://streetworkoutlist.com/fr/map
+🚀 - (Allemagne) https://www.google.com/maps/d/u/0/viewer?mid=1GqVumPRS8SlniELJQD8fNdq1g1o&ll=50.8755230321079%2C6.121215912109762&z=5
+🚀 - (Espagne) https://www.google.com/maps/d/u/0/viewer?mid=1fHuhyngcsjYa2IImbbfinjpExGk&ll=40.889329481487096%2C10.408845691034601&z=4
+
+# skateboard ✅
+🚀 (Georgie) - https://www.google.com/maps/d/viewer?mid=1NRs6dJbPWaooOGdHlqC1SW-URjc&ll=33.33405789530217%2C-85.68672393750002&z=7&fbclid=IwAR2aMzuzHzemLYESa5d_JuCKsRsedqd-JQHw8EWzIN2oM7I6KnPz6EX5bdE
+🚀 COPYRIGHT (World ❓ne pas contacter) - https://www.google.com/maps/d/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=45.51608633333815%2C0.6148582164088552&z=5
+🚀 COPYRIGHT (Colorado ⏳(03/06/2022)) - https://www.google.com/maps/d/viewer?mid=1VXUmvIafsr3v_4AreNxMOv8MoF0
+✅ - (map du site : sk8parks.ch, contacter avant de prendre ?) (Suisse) https://www.google.com/maps/d/u/0/viewer?mid=1cvyjhwKYeDgR3q68yhIxVbFYrTk&ll=46.65878547104267%2C9.325551341612304&z=7
+✅ - (Belgique) https://www.google.com/maps/d/u/0/viewer?mid=1ahqKfwXgqEWqefIhSWY90ThklwA&ll=50.79446927156737%2C4.341263383799352&z=10
+🚀 - (Espagne) https://www.google.com/maps/d/u/0/viewer?mid=1ISuUtegIlQWcvDvnvgAS9MOYVYE&ll=36.10812008264121%2C-6.232964999999977&z=5
+🚀 COPYRIGHT - (France ⏳(03/06/2022)) https://www.google.com/maps/d/u/0/viewer?mid=1BOL1eR7Kkm3zlFRot7-3laiGXQM&ll=49.90705312925851%2C0.4634378282783871&z=5
+🚀 - (USA) https://www.google.com/maps/d/u/0/viewer?mid=16LAtdDAIOoHREIPleCflhup1kwFTLqjF&ll=34.387323131165694%2C-102.07949388125007&z=5
+🚀 - (fr) https://www.google.com/maps/d/u/0/viewer?mid=1GZ6L1BOVfrKIko7coeySg7Oka6Q&ll=37.973332801007196%2C32.69399531250001&z=3
+🚀 - (USA) https://www.google.com/maps/d/u/0/viewer?mid=1SdWsFNMY6Igbtl7rukZghJHVp40&ll=62.76256363418568%2C-95.50648450855203&z=2
+🚀 - (World) https://www.google.com/maps/d/u/0/viewer?mid=1oIV9ZVumQqpZeWNDNgz8z0R2xiE&ll=47.305143986229695%2C0.22135487625862815&z=6
+🚀 - (Europe) https://www.google.com/maps/d/u/0/viewer?mid=1mtIsPeFJZxdewpr1yo7l7ix059M&ll=59.61926784667769%2C6.595017017226667&z=2
+🚀 - (USA) https://www.google.com/maps/d/u/0/viewer?mid=1lRFf1vusE1GOGscspdGIcWxif-g&ll=37.282189302553064%2C-103.60352654760766&z=4
+🚀 - (Mexique) https://www.google.com/maps/d/u/0/viewer?mid=1Gd4JEC1TnBAdOCTAfffnLDCcZzU&ll=21.965866597116317%2C-98.94724566266933&z=6
+🚀 - (Arizona) https://www.google.com/maps/d/u/0/viewer?mid=1WbFzeVelBElpId-A4h-YzPzbn7k&ll=33.169404532360744%2C-111.1206644984446&z=9
+🚀 - (Dresden) https://www.google.com/maps/d/u/0/viewer?mid=1UaLH9HwjdcJB8lunNAJXdBq8fCY&ll=51.20679480965158%2C14.133645708638939&z=9
+🚀 - (Catalogne) https://www.google.com/maps/d/u/0/viewer?mid=1mhRuNgPoHKLlVs8xzZko74nqpgM&ll=41.64245570214505%2C2.503726999999971&z=9
+🚀 - (Luxembourg) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=49.98924924437332%2C6.256713999999981&spn=3.643943%2C9.645996&mid=1DFUeBH1iSr3GDi3m0lJDd3cVYes&z=6
+🚀 - (San Francisco) https://www.google.com/maps/d/u/0/viewer?mid=1bk7T7SKe2TxTJAsDqDifWkZF9Ws&ll=37.71341459881177%2C-122.4275833527613&z=20
+✅ - (Barcelona/street et park) https://www.google.com/maps/d/u/0/viewer?mid=1ft3AKvnz0DkD38JcSB4sFjY0VwA&ll=41.39797462140334%2C2.356162378222675&z=10
+🚀 - (San Antonio/street ?) https://www.google.com/maps/d/u/0/viewer?mid=1pzUW4ykq0h8XuW7l-5I0O1beB3Y&ll=29.564494926228264%2C-98.59716792439522&z=17
+🚀 - (Singapoure) https://www.google.com/maps/d/u/0/viewer?mid=1vy8akapWm2lTgFQ2FzTuvDCTXAJMJHs7&ll=1.3172914085054002%2C103.8312223809847&z=11
+🚀 - (USA) https://www.google.com/maps/d/u/0/viewer?mid=1iiXzotKL-uJ3l7USddpTDvadGII&hl=en_US&ll=44.92337836742432%2C-93.20714608018677&z=12
+🚀 - (London) https://www.google.com/maps/d/u/0/viewer?mid=1KWuZCiSrgq30i7YVfAnFy9J1zaM&hl=en_US&ll=51.688555003500724%2C0.07599871207944808&z=8
+🚀 - (USA_NY_Boston) https://www.google.com/maps/d/u/0/viewer?mid=1eQW2wl2m7kaabEUN9CinPfeTV1U&hl=en&ll=42.66864508577723%2C-40.29078296506682&z=3
+🚀 - (USA) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1kuyWrDuRrrtXwlR7kIE1nI8vdno&ll=40.50870190559511%2C-74.48203072851564&z=9
+🚀 - (Luxembourg) https://www.google.com/maps/d/u/0/viewer?mid=1dzOE88TxlL5_Yn2hRimNSZLarK0&ll=49.64495017356928%2C6.16105824720909&z=9
+- https://mapgeodata.fr/maps/sport/equipement.php
+
+
+
+
+⏳⏳(17/05/2022) - https://www.spotsdeskate.fr/recherche-carto.html
+⏳⏳(16/05/2022) - hubbahubbaskate.com
+⏳⏳(17/05/2022) - nearestskateparks.com
+⏳⏳(17/05/2022) - shredspots.app
+⏳⏳(17/05/2022) - ownitsb.com
+⏳⏳(17/05/2022) - skatesonr.com
+⏳⏳(17/05/2022) - contact@e-weap.fr
+✅ (World) - info@spotmap.ru
+⏳⏳(17/05/2022) - skatein.com
+⏳⏳(17/05/2022) - concretedisciples.com
+⏳⏳(17/05/2022) - goskate.com
+⏳⏳(17/05/2022) - azskateparks.com
+- skatermaps.com
+⏳⏳(17/05/2022) - speakeasyskate.com
+⏳⏳(17/05/2022) - dhughes@northwestskater.com
+⏳⏳(17/05/2022) - https://skatemap.de/?ln=it
+
+
+
+# parkour ✅
+🚀 COPYRIGHT (Lyon ⏳) https://www.google.com/maps/d/u/0/viewer?mid=1vMm1AUSAQCN4o50nZM8wwSCZEngrsjN5&ll=45.75962456773761%2C4.830248922227258&z=11
+🚀 (New York) http://parkour-nyc.com/pknyc-spot-map
+🚀 (Saint-Louis) https://www.google.com/maps/d/u/0/edit?mid=1EMY5b-YKCBuxB1j9ocAF5IXitOw&msa=0&ll=30.88680399542974%2C-100.60389680446596&z=4
+- (Le Mans) https://www.google.com/maps/d/u/0/viewer?mid=1VfQ39tc4p-JORSTTW39Of4w-bCM&ll=48.00799969635839%2C0.24275177298209272&z=13
+- (Il n'y a pas que deus spots, ce sont des zones) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=51.25292465742206%2C9.4125525336521&mid=15nx5kievtVR-f11kF6gUHSQrJPs&z=17
+- (US) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=16afK81X-_n-MUUwuc3mZ-5uUzoU&ll=41.88054571535306%2C-71.38022184600395&z=11
+- (fr) https://umap.openstreetmap.fr/fr/map/spots-de-parkour_640485#2/50.6/2.9
+✅ (Worldwide/Attention pas que du parkour, il y'a aussi du cliff, de la gym etc.)- https://map.parkour.org/spots
+🚀 (Lausanne) https://www.google.com/maps/d/u/0/viewer?mid=1_5uBBBbuJTeSQZ5d8zyDCfVJF60&ll=46.52185723509019%2C6.614881287739949&z=13
+🚀 (Genova) https://www.google.com/maps/d/u/0/viewer?mid=1FIjRDgEe75whT0Ym9fO6EocWIMc&ll=44.41168482208876%2C8.898386649999996&z=12
+✅ peu (Le Mans) https://www.google.com/maps/d/u/0/viewer?mid=1VfQ39tc4p-JORSTTW39Of4w-bCM&ll=47.989066047781485%2C0.1969608000000056&z=12
+🚀 (Londres) https://www.google.com/maps/d/u/0/viewer?hl=it&ie=UTF8&msa=0&z=6&mid=1rZ9pmHeMdff45YK6wVCrmLAGi5g&ll=51.54848977071962%2C-0.016648999999996583
+🚀 (Ottawa) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1NE6lEZExvXdn70SjFD3Emc8_AJE&ll=45.36794093005128%2C-75.7390995&z=13
+🚀 COPYRIGHT (Strasbourg ⏳) https://www.google.com/maps/d/u/0/viewer?mid=1SO8UnhTwKluPNnF6Nld1sKVYSAg&ll=48.59187850836889%2C7.730551057716979&z=12
+🚀 (Danemark) https://www.google.com/maps/d/u/0/viewer?hl=da&ptab=2&ie=UTF8&oe=UTF8&msa=0&mid=1BclkWdmazH5AOD-iMkfALIJYaZI&ll=52.720976160983135%2C7.566510499999998&z=5
+🚀 (Berlin) https://www.google.com/maps/d/u/0/viewer?hl=en_US&mid=1s1511e9HMWrF3a7PlRPJ9DH910A&ll=52.514379956020726%2C13.338953256896948&z=11
+✅ (il n'y a pas que 2 spots/ Allemagne) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=51.250327675%2C9.379121675000007&mid=15nx5kievtVR-f11kF6gUHSQrJPs&z=5
+🚀 (USA) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=16afK81X-_n-MUUwuc3mZ-5uUzoU&ll=41.899496089358756%2C-79.41974499999999&z=6
+🚀 (Belgique et Pays Bas) https://www.google.com/maps/d/viewer?mid=1F8PHbPAtHhj4RaCQzbsw6Ko6FE0&ll=50.250016261493805%2C5.159813761711121&z=7
+🚀 (Berlin) https://www.google.com/maps/d/viewer?mid=1s1511e9HMWrF3a7PlRPJ9DH910A&ll=52.533014305409736%2C13.475796897505452&z=12
+🚀 (Berlin) https://www.google.com/maps/d/u/0/viewer?mid=1DVPax8Y1_AyczL9ZfvPlOMaXD9E&ll=52.43917740812379%2C13.570138631920434&z=9
+✅🚀 En local (Monde) https://www.google.com/maps/d/viewer?mid=1xg5nVJDnFqnJQ_UT6bf5yFpyLzs&ll=34.83528902010334%2C15.16670449999998&z=3
+🚀 (Washington) https://www.google.com/maps/d/viewer?mid=16l8X7f-zg-MC2ikn3IBg_uF87rs&ll=38.815077915984354%2C-77.20646631689557&z=10
+✅ (Liste des assos) https://www.google.com/maps/d/u/0/viewer?mid=1aiU9uoRWfFSWuo9kofS83CfZol5RH4xv&ll=47.08804565055605%2C6.917705958806403&z=6
+✅ peu (Europe) https://www.google.com/maps/d/u/0/viewer?mid=1VYeJjHORfVeVbYVgVOtSF0mAROY&ll=45.6200886832891%2C8.951244950294495&z=5
+🚀 - (Montpellier) https://www.google.com/maps/d/u/0/viewer?mid=1NPMPsRgDtEWMI0BxCTViw0BLC98&ll=43.61513582206673%2C3.8704472501115195&z=12
+✅ peu - (Danemark) https://www.google.com/maps/d/u/0/viewer?mid=11Xuxp9mSobrycJZbT8kSSvn5NcA&ll=55.64902690294473%2C12.856273782590009&z=6
+🚀 - (Spokane) https://www.google.com/maps/d/u/0/viewer?mid=1BYxT3Nw9ANOOVV8DjMc0na-kROY&ll=47.72461492135831%2C-117.30280443734026&z=11
+✅ - (Winnipeg) https://www.google.com/maps/d/u/0/viewer?mid=18u9IlnpdMClFTxlcFgDrK847koA&ll=49.893249330629246%2C-97.13172564629&z=15
+🚀 - (London) https://www.google.com/maps/d/u/0/viewer?mid=18viBXtTs9_srhUBWi5IF_DRGvxl3lIrV&ll=51.462086128678536%2C-0.18468047678606547&z=20
+🚀 - (London) https://www.google.com/maps/d/u/0/viewer?mid=1hM65RF5xbjCTQ8IYqYmY-0UXBCCY-6Bn&ll=51.49136602788574%2C-0.0971202999999976&z=10
+✅ - (World) https://www.zeemaps.com/236269/name_of_your_marker
+🚀 - (Strasbourg) https://www.google.com/maps/d/u/0/viewer?mid=1SO8UnhTwKluPNnF6Nld1sKVYSAg&ll=48.59187850836889%2C7.730551057716979&z=12
+🚀 - (Seattle) https://www.google.com/maps/d/u/0/viewer?mid=1Z3AfWswD8jkYbrRqnJ5OGypt06s&hl=en_US&ll=47.86527772869215%2C-122.41523371277873&z=9
+🚀 - (Paris) https://www.google.com/maps/d/u/0/viewer?hl=en&mid=1cyiRAjbL03EDfFsrE41NQZYhbpQKEdcv&ll=48.837962348860664%2C2.3797320610681227&z=17
+
+- originspots@traceurs.ro
+- urbnjumpers.com
+- devsuess@gmail.com
+- info@torqueparkour.com
+- horiznpk.com/
+beaucoup de spots sur ce site (plusieurs maps et plusieurs sports):
+freesportparks.hu
+
+# climbing
+
+
+✅ beaucoup de liens vers un meme blog, demander au mec ? - (Belgique) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&source=embed&oe=UTF8&msa=0&mid=1dcbNF_2z0lPrCB7t2WOcA2ldduU&ll=49.23742741860753%2C14.230938418872785&z=5
+🚀 - (France) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1C_FEG-N3hvUZO1q6OTg69sgqjPc&ll=41.581292270136856%2C11.812001000000006&z=5
+🚀 - (Fontainebleau) https://www.google.com/maps/d/u/0/viewer?mid=18IJaSbEITyau2Ch99H9a8ItkutA&ll=48.34133236201513%2C2.575864800000014&z=11
+✅ - (Utah)  https://www.google.com/maps/d/u/0/edit?mid=1XphiMsXGOEKZ1WMT6MPyxMitRHg&ie=UTF8&t=h&oe=UTF8&msa=0&ll=38.10347929503591%2C-100.85367194788466&z=4
+🚀 - (Espagne) https://www.google.com/maps/d/u/0/viewer?mid=1YCd56lnxw9emM3lOXsJsorqokR4&ll=43.548657715105676%2C3.0734038147732474&z=6
+✅ - (Ohio) https://www.google.com/maps/d/u/0/viewer?mid=1UyvJQLIWY6WWm37liK5LNH3patQ&hl=en&ll=42.06238958673808%2C-84.90641800000002&z=5
+✅ - (Salle fr) https://www.google.com/maps/d/u/0/viewer?mid=1TMbffoj6Kj-oStNwkpZh9DFxibE&ll=46.24964103113259%2C9.639342100354202&z=5
+✅ - (Salle fr) https://www.google.com/maps/d/u/0/viewer?mid=1_FpFdCwTB6MFFV_551hCxShdq4NvyUwi&ll=46.50582999133012%2C2.0856661705620247&z=5
+🚀 - (Strasbourg) https://www.google.com/maps/d/u/0/viewer?mid=1TeNUBOrXUJTREG3-ji2Xi_Pg0pM&ll=48.206900711211986%2C8.03111415068272&z=8
+✅ - (Lyon) https://www.google.com/maps/d/u/0/viewer?mid=1NKFnq9oiRNxiiFpdkn5dMCU3eXE&ll=45.83895038261884%2C5.467038852628678&z=9
+🚀 - (fr) https://www.google.com/maps/d/u/0/viewer?mid=1z33GfbQp7EyIMfO1TRmSZ-7MLRQ&ll=43.07896334316326%2C9.02991881501435&z=5
+🚀 - (sud de la france) https://www.google.com/maps/d/u/0/viewer?mid=1JUYeyEsqlrqLS9SszBJeXwBd-xg&hl=fr&ll=45.559541811525534%2C2.819880999999995&z=6
+✅ - (Texas/salle) https://www.google.com/maps/d/u/0/viewer?mid=1VZCsQZNpHOpObetm-wyDSzLKjtc&ll=0%2C0&z=6
+✅ - (Alabama) https://www.google.com/maps/d/u/0/viewer?mid=1-Hkn4eFiakLy36-Na7N8mb86Tyc&ll=33.420526100000004%2C-86.69804599999998&z=8
+
+✅ - (Europe ❌❌ Il y aussi les salles d'escalade) https://www.google.com/maps/d/u/0/viewer?mid=1dcbNF_2z0lPrCB7t2WOcA2ldduU&hl=en_US&ll=49.80599365045732%2C6.445749580838125&z=4
+🚀 - (World) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1QUC73RDzeIUhy-pY2wncOHD3TKc&ll=48.43623653852334%2C2.487108177424404&z=11
+✅ - (USA) https://www.google.com/maps/d/u/0/edit?mid=1XphiMsXGOEKZ1WMT6MPyxMitRHg&ie=UTF8&t=h&oe=UTF8&msa=0&ll=42.07579552490482%2C-113.72292967684406&z=20
+
+----
+- (World) https://www.thecrag.com/fr/home
+- (Valence) https://www.climbmaps.com/climbmaps.php?g_lat=39.61323747916464&g_lng=-0.8674249570566284&g_zoom=17
+❓ https://climbingaway.fr/fr/sites-escalade/carte-du-monde-des-sites-d-escalade
+❓ https://www.mountainproject.com/map
+----
+
+# Walking_joggings
+
+https://www.mapmyrun.com/fr/bordeaux-aquitaine/
+https://www.mapmyrun.com/
+https://runningmap.org/fr
+
+# tennis 
+- https://mapgeodata.fr/maps/sport/equipement.php
+- (Dallas) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&msa=0&dg=feature&t=m&ll=32.82636729232916%2C-96.79772995382616&spn=0.026505%2C0.037422&source=embed&mid=1n3OqAVPe0tMbyhM7crZT1Xt_HRU&z=17
+- (map crée en 2006, on pourrait peut etre l'utilier) https://www.tennismaps.com/
+- (Sydney) https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=m&ll=-33.54695662824418%2C151.21640055124905&spn=0.45769%2C0.726471&z=19&source=embed&mid=181OgU0RgUtYs7EcpqL7iRITK0tw
+- https://www.tenniscourtsmap.com/
+- (Paris) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1qEIf9ZY-IGKLfPQozvXH-9T_3a4&ll=48.85998577839466%2C2.3485640000000174&z=12
+- (France) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=11ZeU-v46D-pR6voZiG7nnW6PPcc&ll=45.806850396323966%2C3.940553853072757&z=5
+- (fr) https://www.google.com/maps/d/u/0/viewer?mid=1VfW0ojbRYLarzirDdhx6sB6fk7U&ll=47.453983332411575%2C7.101928850000032&z=5
+
+# squash
+- (Paris) https://www.google.com/maps/d/u/0/viewer?mid=15XmZjgjSEflDLjswR9WiftEzMjennazW&ll=48.83183430877478%2C2.251487600000015&z=11
+- (Fr) https://www.google.com/maps/d/u/0/viewer?hl=en_US&mid=1NiLVMdFCgrfxcpU6tRIag5jVNZU&ll=48.97057089663528%2C2.238111350109606&z=15
+- (Picardie) https://www.google.com/maps/d/u/0/viewer?hl=fr&gl=fr&ie=UTF8&oe=UTF8&msa=0&mid=1nFk8VjztbXwWEdMAzvfwCTWVJ0I&ll=50.231474160849785%2C2.4444531445312823&z=8
+
+# tennis de table
+- (Ile de France/clubs) https://www.google.com/maps/d/u/0/viewer?oe=UTF-8&hl=fr&ie=UTF8&msa=0&z=10&om=1&mid=1ttuozWRLyVq6YRWfidWi9sk85wc&ll=48.70385608202063%2C2.5111426845927642
+
+# foot
+
+Terrains :
+https://mapgeodata.fr/maps/sport/equipement.php
+🚀 (Washington) https://www.google.com/maps/d/u/0/viewer?mid=140MoHwbssWds6b3x1V03e9c83WY&hl=en&ll=38.637650843874034%2C-77.24978264062199&z=18
+🚀 (Cincinnati) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1PGwj2q0Fr4vOMF4VcuXWCZ9v0f4&ll=38.964274510533606%2C-84.7145067893826&z=9
+🚀 (Nouvelle Ecosse) https://www.google.com/maps/d/u/0/embed?mid=1-wIu0lKnMbG-fb0a6J3Tr67gG5k&ie=UTF8&msa=0&output=embed&ll=45.84625420357555%2C-66.4762238053758&z=17
+🚀 (Québec) https://www.google.com/maps/d/u/0/viewer?mid=1YZPxSuiltKtHWfHZAU0z6w7pWmU&hl=en_US&ll=46.792952710757824%2C-70.92304607908434&z=9
+- (Québec) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&t=m&z=5&vpsrc=0&mid=1mOyQ7bPmO_AfSrlkcbxTor94OxM&ll=46.5936892302324%2C-68.0102331862877
+- (Montréal) https://www.google.com/maps/d/u/0/viewer?mid=1m7FsitQTmKpRzErmqnkM8z2w0rU&ll=44.16995649187123%2C-70.0363001654676&z=6
+- (Portland) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1mJZiGUBZdF0Jrz48xsq76YRrnKI&ll=45.72198051426884%2C-122.67113023436707&z=18
+- (Boston, pas folle) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1vP1VWuHc8zp5KzxNlA_v-tHPebM&ll=42.439781615683586%2C-70.96650221391057&z=10
+- (NorthEst) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=13IKSSAkteXw-ZRhMAvydw4SEqis&ll=32.36986886223324%2C-86.15172474318408&z=14
+- (Montréal) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1bTFUuLoA0Rg96omxUCCYdocfWW4&ll=46.77225402157294%2C-63.12225639128758&z=5
+- (Mineapolis) https://www.google.com/maps/d/u/0/viewer?hl=en_US&mid=1ZKyadygdcIt20RiBI1JryUo3MB0&ll=48.86811790723124%2C-84.00969930940624&z=5
+- (Genève) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=fr&msa=0&t=h&ll=46.56204518199202%2C6.7919973825463975&spn=0.639105%2C1.020452&source=embed&mid=1fV_rhq67EIR74vgLIJmulfCDFt0&z=9
+🚀 (Marseille) https://www.google.com/maps/d/u/0/viewer?mid=1ryPArYbYjd0ol0v3mhzX3YD5W0Y&hl=en_US&ll=43.409711360541415%2C5.924545950783902&z=8
+- (Lausanne) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1fV_rhq67EIR74vgLIJmulfCDFt0&ll=46.50044087806473%2C6.734974019013755&z=11
+- (Toulouse) https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=h&source=embed&ll=43.618182%2C1.6506960000000115&spn=0.397679%2C0.822601&z=10&mid=1w9G4KojLZXzQOQWJyk4iRFaOpR8
+- (Aveyron/pas bcp) https://www.google.com/maps/d/u/0/viewer?hl=fr&ie=UTF8&msa=0&ll=44.22214043860884%2C2.888849367148869&spn=0.098311%2C0.178528&z=10&source=embed&mid=15fd8sdmj_6BkpGGLQY1F00utWJw
+🚀 (Paris) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1VdLoUoRaNnOICUrtKZk7i0CY9Hk&ll=48.82007100749585%2C2.3285099835501732&z=18
+- (mélangé basket et foot) (Paris) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&source=embed&oe=UTF8&msa=0&mid=1lxhWufznQD4xpL5qcXYRu7Baswc&ll=48.851595019740905%2C2.3174607719099383&z=12
+- (Bangkok) https://www.google.com/maps/d/u/0/viewer?msa=0&iwloc=lyrftr%3Amsid%3A212831908911519012599.000489bebffcfb9845875%2C0004ac2a6475f8b22796a%2C%2C%2C0%2C-31&mid=1cyaC8Q1elbr6kG9y_A_mGGm7vRs&ll=13.806863498887056%2C100.69897664956356&z=10
+- (Nouvelle-Ecosse) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=19nBeWenBkvCUDNSZpFTJq3kC3zk&ll=48.109125796440566%2C-68.12943305672876&z=4
+- (Seattle) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1OzwTBy1wuXOQU9luT2nD42HeA7k&ll=47.50155545808701%2C-121.95979830636276&z=9
+🚀 (Rennes) https://www.google.com/maps/d/u/0/viewer?mid=1bks5fSEpaFxERSvQ0LblecmAikY&hl=fr&ll=47.985991863035416%2C-0.2702395285949688&z=7
+- (Tunisie) https://www.google.com/maps/d/u/0/viewer?gl=fr&ie=UTF8&oe=UTF8&msa=0&mid=1TMB85cCUY_2aEuqd3_N7K7_7iKM&ll=35.67510830990446%2C10.13594857775895&z=19
+- (Ottawa) https://www.google.com/maps/d/u/0/viewer?mid=1vKRZr4Se42k0ykzmo8gtvZqJ7Ic&ll=45.60561528408527%2C-75.38147263378907&z=9
+🚀 (Avignon) https://www.google.com/maps/d/u/0/viewer?mid=1IKjZ3XwrS3aSbfdxhlBSjgMegi8&ll=45.38947467457644%2C11.612976020431248&z=5
+
+
+(stades officiels, pas accessibles je pense)
+-  (Stade de foot/France) https://www.google.com/maps/d/u/0/viewer?hl=fr&gl=fr&ie=UTF8&oe=UTF8&msa=0&mid=1XKwGrXeSV0lfg41QIJVZVuowv7o&ll=45.7738746737152%2C12.729857812500008&z=5
+- (World) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=40.25824856940074%2C-3.6426307941264313&spn=0.543883%2C1.056747&mid=1stZECY_48DyTU0roW3niwmxT2SE&z=11
+- (Stade de foot/USA) https://www.google.com/maps/d/u/0/viewer?mid=1CbUsNPZncTbvwIf-Nw_fc9DdAlg&ll=38.300307794360585%2C-73.99084646213466&z=6
+- (Stade de foot/Monde) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=17NUY0JYl5CL0MFpbbixY3dBSHYU&ll=46.643644698008764%2C16.562238130194487&z=2
+Citystade :
+Est ce qu'on met les city uniquement dans foot ?
+- (citystade) https://www.google.com/maps/d/u/0/viewer?mid=1VGPm4164V7e31H3ZJSAeUXZ1o3bKJlWv&ll=47.791401921600276%2C-2.79175987668963&z=9
+- (citystade) https://www.google.com/maps/d/u/0/viewer?mid=1mT9RWztukD6RevDo_Z_tEeYYGMYG5cr3&ll=46.47892972185604%2C5.2816025502178245&z=6
+
+Futsal :
+- (Séoul) https://www.google.com/maps/d/u/0/viewer?mid=1TDKzn6BTtybqwUeUZs5SXC9B23k&ll=37.60727915732584%2C126.91236730000003&z=11
+- (Malaysie) https://www.google.com/maps/d/u/0/viewer?hl=en&mid=149QMS-lvgQfwu7P2LIoOAi3gl-I&ll=3.03873922775558%2C101.69311720246424&z=11
+- (France) https://www.google.com/maps/d/u/0/edit?mid=1VIt-dz0VSXLp6J1ROxZsxp5pIyI&ie=UTF8&oe=UTF8&msa=0&ll=44.76486554270945%2C-1.2568560961780335&z=4
+
+
+# rugby
+https://mapgeodata.fr/maps/sport/equipement.php
+
+# golfing ✅
+✅ - (USA) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1yA7tvs5y9QB7sEiE34lKtJOZQGA&ll=44.21941156460057%2C-116.39061310385682&z=5
+⏳ - https://www.touslesgolfs.com/annuaire/
+- (Europe) https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=m&ll=48.23767226463717%2C2.1594635924369943&spn=109.357952%2C245.742188&z=8&source=embed&mid=1tR0c607MmarPaQQfrE0RoVBjtfo
+- (USA) https://www.google.com/maps/d/u/0/viewer?ie=UTF&msa=0&mid=1qmuNuExU6NbzvCaeKNQpp8SvpTY&ll=36.465782147871735%2C-98.74017900000001&z=4
+- (US) https://www.google.com/maps/d/u/0/viewer?mid=1uBrK7_bQCt549kxyJAL2q29n2W0&ll=39.08299504765784%2C-87.55895705511361&z=4
+- (World/not a lot) https://www.google.com/maps/d/u/0/viewer?msa=0&ll=54.36417206824428%2C-4.724120999999993&spn=7.330651%2C14.128418&mid=1b3SRwkdQLg6mrINgPlbk0mqHLDw&z=5
+- (Scottish) https://www.google.com/maps/d/u/0/viewer?mid=19b9EEk2sPqA5KCDH_rvXD07Rnq4&ll=53.741291101740586%2C2.4694325164773403&z=5
+- (Phoenix) https://www.google.com/maps/d/u/0/viewer?mid=1wGuSLgihoCkIb8R6LP8QfGeLHi4&ll=33.79359527202551%2C-111.93109947525055&z=18
+- (Dubai) https://www.google.com/maps/d/u/0/viewer?mid=1wlWGIJ0aNahMRagPHMaopk5-qtc&ll=24.90132471932142%2C55.73664981608913&z=9
+- (Thailande) https://www.google.com/maps/d/u/0/viewer?mid=1mXWdRpld3Gew0ofdgO34rpr_kVY&ll=13.95093246830517%2C100.20710250188326&z=8
+- (Iceland) https://www.google.com/maps/d/u/0/viewer?mid=1rDAiGLMtJsDlxn2FtahMUXgiUOs&ll=64.98525541485519%2C-19.53635344921872&z=6
+- (Arizona) https://www.google.com/maps/d/u/0/viewer?mid=1NtDcWGPSqxMKgs-lPAmka9w4H10&ll=34.17684116435813%2C-111.90030149999998&z=6
+- (France) https://www.google.com/maps/d/u/0/viewer?mid=1QZm933D1qxzDzZO2mo-utzlX2qpcu7Yt&ll=45.440899908021734%2C4.002438046144835&z=6
+- (England) https://www.google.com/maps/d/u/0/viewer?mid=1gem2pvMcxzKJpsOtEnajCdznKhI&ll=51.38063664535463%2C-0.31848341532029867&z=12
+-----
+Street golf 
+- (France) https://www.google.fr/maps/d/u/0/viewer?mid=132E51ye7GpCw4O74oTKT6jtaKQvOJ8QR&ll=47.374871677704476%2C1.9038832375000547&z=5
+Mini Golf
+- (Allemagne) https://www.google.com/maps/d/u/0/viewer?mid=1Nn5F6zwD9c3tqKnAj8W9fEI4q0UZzoU4&ll=49.642293280759596%2C9.041783656315475&z=9
+
+
+# paintball (club) & airsof (seul)
+
+club :
+- (France) https://www.ffpaintball.fr/affilies/
+- (Allemagne) https://www.google.com/maps/d/u/0/viewer?mid=1HxN3kKT82wBIdlNH-Dj46cQmW6s&ll=50.87059433726536%2C13.279968787500003&z=6
+- (Les 2Angleterre) https://www.google.com/maps/d/u/0/viewer?mid=1beW9oSGJrJXSkk2mGpVQcjLZlVfOP6PH&ll=54.77646268863529%2C-2.683110399999973&z=5
+solo :
+- (Espagne) https://www.google.com/maps/d/u/0/viewer?mid=1vNHSJAFBen5ZtibOjepwwJ1PxKk&ll=37.760694213794864%2C-6.752364513137943&z=19
+- (Thailand)
+
+# cyclisme
+
+# equitation
+- https://horseful.com/maps
+✅ (Le Mans) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1yr2g3O1Q4fcqDhfPPPj1vDYfHPg&ll=47.886606308606765%2C2.3506140316447377&z=6
+✅ (Franche Comté) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=m&oe=UTF8&msa=0&mid=13kWGzK8sORWsCfn4g3lEXGWVhq4&ll=48.20539025210694%2C7.4919190000000135&z=8
+- https://www.geoportail.gouv.fr/donnees/centre-equestres
+- https://thehorsemap.com/
+✅ (Vancouver) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&hl=en&source=embed&msa=0&ll=45.644768000000006%2C-123.008423&spn=1.344106%2C2.334595&z=8&mid=10A4MWMEEVMjcV9gOGxciKVswZR4
+
+
+
+# volley
+# intérieur
+✅ (Belgique) - https://www.google.com/maps/d/u/0/viewer?hl=fr&ie=UTF8&hq&hnear=Rue%20des%20Comognes%202%2C%20Assesse%205330%20Assesse%2C%20Namur%2C%20R%C3%A9gion%20Wallonne%2C%20Belgique&msa=0&ll=50.04396700000003%2C4.500402999999995&spn=0.003052%2C0.009559&t=h&z=6&mid=1yWXVvu24aT43-FqByQwjslHYUho
+✅ (Washington, 4 spots...) - https://www.google.com/maps/d/u/0/viewer?gl=us&ptab=2&ie=UTF8&oe=UTF8&msa=0&mid=1AnZ_ezjj7C7xYiLFT6ZIIwPVnrQ&ll=39.01778753652868%2C-76.8821818469979&z=11
+✅ (Seattle, 3 spots...)- https://www.google.com/maps/d/u/0/viewer?hl=en&gl=us&ie=UTF8&oe=UTF8&msa=0&mid=1Fw48M5xrWqVwanlghrTZIqD4ZY0&ll=47.6833752325722%2C-122.33598500000001&z=14
+- (Idf) https://www.google.com/maps/d/u/0/viewer?mid=133V4a8BbnZ2siEy4skRSO9P57cE&ll=48.72896914650809%2C4.582901239091237&z=7
+- (Nantes) https://www.google.com/maps/d/u/0/viewer?mid=1h9v1zOo8X0qnjfEryWGdhL4vDY4&ll=47.353142145492704%2C0.15430192148438326&z=8
+- (Tours) https://www.google.com/maps/d/u/0/viewer?mid=1NFsfGYGLbSMZuRNWIiiwOAbkcpM&ll=47.31767769540162%2C0.710163109082016&z=11
+- (Charleroi) https://www.google.com/maps/d/u/0/viewer?mid=1yWXVvu24aT43-FqByQwjslHYUho&ll=50.38030624100308%2C5.869226994531251&z=7
+- (Fontainebleau) https://www.google.com/maps/d/u/0/viewer?mid=1ieYM3U7-tT---IcxikFe4uZqJUslLsUC&ll=48.64959441858766%2C2.545053777481834&z=8
+- (Bruxelles) https://www.google.com/maps/d/u/0/viewer?mid=10VlXHl1sVqxnb5a9PhV5OqMzHRZJlQwn&ll=50.92054297532088%2C5.522548222070345&z=8
+# beach
+🚀 (San Francisco) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1SjgvF6XiJkC5ad3ZZU7iO1MBMYY&ll=37.24913672929879%2C-122.15612950000003&z=8
+
+
+# basket
+https://mapgeodata.fr/maps/sport/equipement.php
+✅ (USA) - https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=11ydwDTm_T3XkIHjHgs03C_FD5s8&ll=35.450295125088374%2C-118.80138872465845&z=2
+⏳ (16/05/2022) - https://www.courtsoftheworld.com/map/
+✅ (Washington, 5 spots...)- https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1o9TUcckV31JS5wQzt6cSwhcjB2E&ll=39.07924189971596%2C-77.143548&z=12
+
+# pétanque ✅🚀
+🚀 - https://petanquemap.com/
+
+# treetop_climbing
+
+# archery
+
+# vtt 50
+🚀 - pumptrack bmx terre (Angleterre) https://www.google.com/maps/d/u/0/viewer?mid=1tL1ELdCXemdd-iLAwZoULIJaqW0&ll=52.75748662179127%2C-3.0405974046875004&z=7
+✅ arrive pas a telecharger la map - pumptrack skate/bmx (Belgique) https://www.google.com/maps/d/u/0/viewer?mid=19Cn-tHLXspUD068nb6UsT_JDMXiLiqHE&ll=48.803787175965645%2C9.33011888069274&z=11
+🚀 (Allemagne) - https://www.google.com/maps/d/u/0/viewer?mid=1PcwTCxTGGJKEIT2jbP6UPiLu-prJbpH4&ll=51.19058738630536%2C8.007872234245648&z=7
+(France) - https://www.google.com/maps/d/u/0/viewer?mid=1OUbrSincBPrDdosVNotK8V7lw9pm4y9O&ll=45.62004236165123%2C8.283989278928122&z=5
+# athletics
+https://mapgeodata.fr/maps/sport/equipement.php
+# baseball
+
+# sand_yacht
+
+# mountainboard
+
+# salle de sport 
+- https://www.google.com/maps/d/u/0/viewer?hl=fr&ie=UTF8&msa=0&z=19&mid=1NCqdpRZnIC88M-xp-Hg_FqdU2hg&ll=47.91621084413885%2C-1.38396325491422
+
+
+5. Motor : 
+
+# racing 
+
+✅ - (Europe) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=118RBlz-jBqVdwwcTAkGWbvDUcjc&ll=53.83724543048264%2C14.939896021631316&z=3
+✅ - https://www.racingcircuits.info/
+
+# karting ✅
+
+✅ - (World) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1jUfJcuOkb6gUS-fEYnWSJ1PR8GA&ll=43.532129264083444%2C-5.274755403066916&z=4
+✅ - (France) https://www.google.com/maps/d/u/0/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1skfU_aNTD-jOGnpxp-N4kzsaIv4&ll=43.42090597655694%2C5.522914176585475&z=4
+
+
+# motocross ✅
+
+✅ - (World) https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1VdvBl4adkvxU8WdaEMWg5igqMvk&ll=44.14638004047161%2C-27.004795750511256&z=2
+✅ - https://mapmoto.com/find
+
+
+# quad_buggy
+
+
+
+# boating (best anchor spot)
+
+- (Croatie) https://www.google.com/maps/d/u/0/viewer?mid=10x4POm6RFyEY4FyWz2PCYpq_KMVVQAlp&ll=43.76615462334845%2C15.375530321492004&z=11
+

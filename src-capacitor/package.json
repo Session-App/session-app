@@ -1,0 +1,22 @@
+{
+  "name": "session",
+  "version": "0.0.1",
+  "description": "Discover new spots and friends to practice your favorite sports.",
+  "author": "Session associates <explore-outdoors@protonmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^3.0.0-beta.0",
+    "@capacitor/app": "^1.0.0",
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/clipboard": "^1.0.8",
+    "@capacitor/core": "^3.0.0",
+    "@capacitor/device": "^1.1.2",
+    "@capacitor/geolocation": "^1.3.1",
+    "@capacitor/ios": "^3.0.0-beta.0",
+    "@capacitor/keyboard": "^1.2.2",
+    "@capacitor/push-notifications": "^1.0.9",
+    "@capacitor/share": "^1.1.2",
+    "@capacitor/splash-screen": "^1.2.2",
+    "capacitor-plugin-app-tracking-transparency": "^2.0.1"
+  }
+}

@@ -1,0 +1,48 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+$primary   : #086788;
+$secondary : #4c9abf;
+$tertiary : #043444;
+$fourth : #EBDBC1;
+$fiveth :#A17C6B;
+$seventh : #60392E;
+$eith : #4B8153;
+$nineth : #A10502;
+$dark: #1D1D1D;
+
+$accent    : #9C27B0;
+
+$positive  : #4B8153;
+$negative  : #A10502;
+$info      : #06AED5;
+$warning   : #F2C037;
+
+$light-white:#ffffff;
+$light-grey : #d3d1d1;
+$grey : #a6a8a7;
+$background-gradient: linear-gradient(0deg, white, $primary);
+$overlay-background: rgba(255, 255, 255, 0.6);
+$overlay-blur: blur(10px);
+
+$button-border-radius : 9px;
+$pp-small-width: 40px;
+$pp-medium-width: 75px;
+
+$bottom-map-element : calc(110px + env(safe-area-inset-bottom));
+:root{
+    --page-height: calc(100vh - var(--footer-height) - var(--header-height) - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+    --footer-height: 66px;
+    --header-height: 50px;
+}

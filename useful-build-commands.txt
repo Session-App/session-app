@@ -1,0 +1,8 @@
+bundletool build-apks --bundle=app-release.aab --output=session.apks --ks=../../../../../quasar-release-key.jks --ks-key-alias=quasar-release --mode=universal
+
+apksigner sign --ks ../../../../../../../quasar-debug-key.jks app-release-unsigned.apk
+
+
+adb uninstall "org.cordova.quasar.app"
+
+quasar dev -m android

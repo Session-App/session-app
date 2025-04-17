@@ -1,0 +1,342 @@
+- 6: "Street workout",
+
+- ?: "Tricking": {
+roulade avant
+dive roll
+roue
+salto avant/arrière
+costal
+scoot 
+webster
+cork/double/tripe
+vrille/double/triple
+aerial
+flashkick
+rondade
+freesbee
+pied lune
+tracass
+wall flip
+palm flip
+barani
+arabian
+
+}
+
+
+ - 5: "Skateboard" {
+
+FLIP TRICKS
+Alpha Flip
+Anti Casper Flip
+Backside Flip
+Backside Heelflip
+Big Heelflip
+Bigflip
+Biggerflip
+Bigspin
+Biggerspin
+Bubble Flip
+Bullflip
+Caballerial Flip
+Camel Flip
+Casper Flip
+Daydream Flip
+De Comply
+Disco Flip
+Feather Flip
+Fingerflip
+540 Flip
+Forward Flip
+Frontside Flip
+Frontside Heelflip
+Front Foot Impossible
+Gazelle Flip
+Gazelle Spin
+Ghetto Bird
+Gingersnap
+Grape Flip
+Handstand Flip
+Hardflip
+Haslam Flip
+Heelflip
+Halfcab
+Hospital Flip
+Illusion Flip
+Impossible
+Inward Heelflip
+Jesus Flip
+Kickback Flip
+Kickflip
+Kiwi Flip
+Laser Flip
+Nerd Flip
+Nightmare Flip
+No Comply
+Orange Flip
+Ollie North
+Ollie South
+Plasma Spin
+Pop Shuvit
+Pressure Flip
+Rail Flip
+Semiflip
+720 Flip
+Sex Change
+Shuvit
+Pop Shuvit
+Sigma Flip
+360 Flip
+360 Shuvit
+360 Ollie Heelflip
+360 Ollie Kickflip
+Toeflip
+Underflip
+Varial Heelflip
+Varial Kickflip
+
+GRIND AND SLIDE TRICKS 
+Barley Grind
+Bertleman Slide
+Bluntslide
+Boardslide
+Backside Lipslide
+Frontside Boardslide
+Casperslide
+Crail Slide
+Crooked Grind
+Darkslide
+50-50 Grind
+5-0 Grind
+Feeble Grind
+Hurricane
+Layback Grind
+Lipslide
+Losi Grind
+Nail Slide
+Noseblunt Slide
+Nosegrind
+Noseslide
+Overcrook Grind
+Overturn
+Primo Grind
+Salad Grind
+Slash Grind
+Smith Grind
+Suski Grind
+Tailblock Grind
+Tailslide
+Willy Grind
+
+GRAB AND AIR TRICKS
+180
+Frontside 180
+Backside 180
+270
+360
+540
+720
+900
+Airwalk
+Backflip
+Benihana
+Body Jar
+Caballerial
+Cannonball
+Christ Air
+Crail Grab
+Crossbone
+Delmar Indy
+Double Grab
+Frigid Air
+Frontside Air
+Grosman Grab
+Helipop
+Indy Grab
+Japan Air
+Judo Air
+Lien Air
+Madonna
+McTwist
+Melancholy Grab
+Method Air
+Mute Air
+Nosebone
+Nose Grab
+Nuclear Grab
+Ollie to Fakie
+Roastbeef Grab
+Rocket Air
+Sacktap
+Sal Flip
+Saran Wrap
+Seatbelt Grab
+Slob Air
+Stalefish Grab
+Stiffy
+Superman Grab
+Tailbone
+Tail Grab
+Tuck Knee
+Varial
+
+RAMP AND FOOTPLANT TRICKS
+Axle Stall
+Bean Plant
+Blunt
+Boneless
+Crailtap
+Creeper
+Disaster
+Egg Plant
+Fastplant
+Gymnast Plant
+Ho-Ho
+Layback Air
+Miller Flip
+Nose Pick
+Nose Stall
+Noseblunt
+Pivot
+Pivot Fakie
+Pull Up
+Rock and Roll
+Rock to Fakie
+Sad Plant
+Staple Gun
+Sweeper
+Tailblock
+Power Ollie
+Tail Stall
+Texas Plant
+Texas Two-Step
+
+MISC. Trick List
+Acid Drop
+Alley Oop
+Body Varial
+Casper
+Caveman
+Coffin
+Daffy
+Firecracker
+Flamingo
+Hippy Jump
+Hang Ten
+Invert
+Kickturn
+Manual
+Nose Manual
+One Foot Manual
+One Wheel Manual
+Primo
+Pogo
+Powerslide
+Roll In
+Tic-Tac
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    39: "Escalade",
+    71: "Marche & footing",
+    40: "Tennis",
+    41: "Foot & cityfoot",
+    42: "Rugby",
+    43: "Golf",
+    44: "Paintball",
+    45: " Cyclisme",
+    46: "Equitation",
+    47: "Volley",
+    48: "Basket",
+    4: "Pétanque",
+    49: "Accrobranche",
+    hockey: "Hockey??????",
+    67: "Tir à l'arc",
+    50: "VTT",
+    51: "Athlétisme",
+    52: "Baseball",
+    53: "Char à voile",
+    54: "Mountainboard",
+    55: "Tir",
+    56: "Badminton",
+    57: "Tennis de table",
+    58: "Randonnée",
+    59: "Handball",
+    60: "Bowling",
+
+- 1: "Saut de falaise" {
+
+    }
+
+
+
+
+
+- 7: "Kitesurf" {
+   BEGINNER : Preparation of the kite, safety release, launching your kite, landing the kite, relaunch, bodydrag, kite position and movement, kitesurfing rules, Waterstart, Riding Upwind, Sliding transition,jibe heel to toe, jibe toe to heel,ride one handed, ride toeside,downloop jibe,
+   HOOKED : pop, jump, jump transition, pop to toeside, Backroll, backroll grab, backroll to toeside, backroll transition, double backroll, beach start, jump grab, deadman, pop to grab, tabletop, tailgrab, frontroll, toeside frontroll, frontrollgrab, frontroll inverted, frontroll inverted with grab, hand drag, hand drag backroll, frantrum, ollie to blind, riding blind, one footer, darkslide, beach jump, board off, board off tail, board off fin, handstand, kiteloop, jesus walk, lizard slide, tic tac toe, boogieloop
+   UNHOOKED
+   STRAPLESS
+   FOIL
+   WAVE
+}
+    8: "Planche à voile",
+    9: "Voile",
+    2: "Surf & Body",
+    11: "Natation",
+    12: "Snorkeling",
+    13: "Plongée",
+    70: "Wake & ski nautique",
+    14: "Skimboard",
+    15: "Rafting",
+    16: "Kayak",
+    17: "Jet ski",
+    10: "Pêche",
+    18: "Flyboard",
+    19: "Paddle",
+    20: "Waterpolo",
+    21: "Aviron",
+    69: "Chasse sous Marine et apnée",
+
+    22: "Saut en parachute",
+    24: "Parachute ascensionnel",
+    25: "Parapente",
+    23: "Base jump",
+    26: "Baptême de l'air",
+    helicopter: "Helicoptère",
+    28: "Paramoteur",
+    27: "Montgolfière",
+    72: "Planeur",
+
+    29: "Ski",
+    30: "Snow",
+    31: "Snowkite",
+    32: "Patin à glace",
+    33: "Motoneige",
+    34: "Luge",
+    35: "Hockey sur glace",
+    36: "Ski de fond",
+    ice_hockey: "Hockey sur glace",
+    36: "Ski de fond",
+    37: "Chien de traineau",
+    38: "Alpinisme",
+
+    61: "Kart",
+    62: "Motocross",
+    63: "Quad & buggy",
+    64: "Course",
+    65: "Bateau",
+    66: "Road Trip",

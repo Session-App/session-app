@@ -1,0 +1,20 @@
+@import './quasar.variables.scss';
+
+.platform-ios{
+
+	.bottom-sheet{
+		.q-dialog__inner > div {
+			margin-top: -45px ;
+			box-shadow: none !important;
+		}
+	}
+
+	.spot-detail-wrapper{
+		height: auto !important;
+	}
+
+	.bottom-safe-area{
+		margin-top: calc(0px - env(safe-area-inset-bottom));
+	}
+
+}
