@@ -4,7 +4,7 @@ Ce repo contient le code source de l'application "Session". Si vous souhaitez pl
 
 Note: Ce projet n'est plus maintenu.
 
-(https://app-session.com/)[https://app-session.com/]
+[https://app-session.com/](https://app-session.com/)
 
 # idées
 
